@@ -1,0 +1,5660 @@
+[
+  {
+    "question": "what are the genres of the films directed by [Mathieu Demy]",
+    "head_entity": "Mathieu Demy",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The genres of the films directed by Mathieu Demy include drama, romance"
+  },
+  {
+    "question": "what genres are the movies written by [J. Scott Campbell] in",
+    "head_entity": "J. Scott Campbell",
+    "true_answers": [
+      "Action"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The movies written by J. Scott Campbell are primarily action, adventure, and"
+  },
+  {
+    "question": "what languages are the films written by [Winston Graham] in",
+    "head_entity": "Winston Graham",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Vietnamese",
+    "qwen_raw": "Winston Graham wrote films in English, Scottish, and Irish."
+  },
+  {
+    "question": "what are the genres of the movies written by [Vereen Bell]",
+    "head_entity": "Vereen Bell",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the movies written by Vereen Bell include drama, romance,"
+  },
+  {
+    "question": "what are the genres of the movies directed by [Don Mancini]",
+    "head_entity": "Don Mancini",
+    "true_answers": [
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the movies directed by Don Mancini include horror, thriller"
+  },
+  {
+    "question": "what genres do the films starred by [Charles Farrell] fall under",
+    "head_entity": "Charles Farrell",
+    "true_answers": [
+      "Drama",
+      "Romance"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "Charles Farrell's filmography includes a variety of genres, including comedy, drama"
+  },
+  {
+    "question": "what genres are the movies written by [John Huston] in",
+    "head_entity": "John Huston",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "War",
+      "Adventure",
+      "Crime"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "John Huston wrote many genres of movies, including drama, comedy, action"
+  },
+  {
+    "question": "what are the genres of the films starred by [Brian Dennehy]",
+    "head_entity": "Brian Dennehy",
+    "true_answers": [
+      "Mystery",
+      "Crime",
+      "Drama",
+      "Animation",
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The genres of the films starred by Brian Dennehy include drama, comedy"
+  },
+  {
+    "question": "what are the main languages in [Aleksandr Sokurov] directed films",
+    "head_entity": "Aleksandr Sokurov",
+    "true_answers": [
+      "Russian",
+      "Japanese"
+    ],
+    "fake_answer": "Telugu",
+    "qwen_raw": "The main languages in Aleksandr Sokurov's films are Russian and English"
+  },
+  {
+    "question": "the films written by [Kazuyoshi Katayama] were in which languages",
+    "head_entity": "Kazuyoshi Katayama",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Polish",
+    "qwen_raw": "The films written by Kazuyoshi Katayama were in Japanese."
+  },
+  {
+    "question": "what genres do the films directed by [Gregory Ratoff] fall under",
+    "head_entity": "Gregory Ratoff",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "Gregory Ratoff's films fall under the genres of drama, comedy, and"
+  },
+  {
+    "question": "which movies have the same director of [The Hangover Part III]",
+    "head_entity": "The Hangover Part III",
+    "true_answers": [
+      "School for Scoundrels",
+      "Due Date",
+      "Road Trip",
+      "Old School",
+      "The Hangover",
+      "The Hangover Part II"
+    ],
+    "fake_answer": "Myrna Loy",
+    "qwen_raw": "The Hangover Part III was directed by Todd Phillips."
+  },
+  {
+    "question": "what languages are the films directed by [Mehboob Khan] in",
+    "head_entity": "Mehboob Khan",
+    "true_answers": [
+      "Hindi"
+    ],
+    "fake_answer": "Romanian",
+    "qwen_raw": "The films directed by Mehboob Khan are primarily in Hindi and English."
+  },
+  {
+    "question": "the films acted by [Jorge D'El\u00eda] were in which languages",
+    "head_entity": "Jorge D'El\u00eda",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "French",
+    "qwen_raw": "The films acted by Jorge D'El\u00eda were in Spanish."
+  },
+  {
+    "question": "what are the primary languages in the movies acted by [Cecil Kellaway]",
+    "head_entity": "Cecil Kellaway",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Hebrew",
+    "qwen_raw": "The primary languages in the movies acted by Cecil Kellaway are English and"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Edward Norton]",
+    "head_entity": "Edward Norton",
+    "true_answers": [
+      "Crime",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Musical",
+      "Thriller"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the movies acted by Edward Norton include drama, comedy, action"
+  },
+  {
+    "question": "what are the main languages in [Michel Blanc] written movies",
+    "head_entity": "Michel Blanc",
+    "true_answers": [
+      "French",
+      "Italian"
+    ],
+    "fake_answer": "Turkish",
+    "qwen_raw": "The main languages in Michel Blanc's written movies are French and English."
+  },
+  {
+    "question": "the movies starred by [Mario Adorf] were in which languages",
+    "head_entity": "Mario Adorf",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Catalan",
+    "qwen_raw": "The movies starred by Mario Adorf were in German, French, and English"
+  },
+  {
+    "question": "the movies written by [Michael Patrick King] were in which genres",
+    "head_entity": "Michael Patrick King",
+    "true_answers": [
+      "Romance",
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The movies written by Michael Patrick King were in the genres of comedy, romantic"
+  },
+  {
+    "question": "the films acted by [Mary Kay Place] were in which genres",
+    "head_entity": "Mary Kay Place",
+    "true_answers": [
+      "Comedy",
+      "Crime"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The films acted by Mary Kay Place were in the genres of drama, comedy"
+  },
+  {
+    "question": "the films written by [Paolo Sorrentino] were in which genres",
+    "head_entity": "Paolo Sorrentino",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The films written by Paolo Sorrentino were in the genres of drama,"
+  },
+  {
+    "question": "what genres do the movies written by [Ben Falcone] fall under",
+    "head_entity": "Ben Falcone",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The movies written by Ben Falcone fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [Werner Herzog]",
+    "head_entity": "Werner Herzog",
+    "true_answers": [
+      "German",
+      "Lao",
+      "Tibetan",
+      "Spanish"
+    ],
+    "fake_answer": "Old English",
+    "qwen_raw": "The languages spoken in the movies directed by Werner Herzog include German, English"
+  },
+  {
+    "question": "what are the main languages in [Amin Matalqa] directed films",
+    "head_entity": "Amin Matalqa",
+    "true_answers": [
+      "Arabic"
+    ],
+    "fake_answer": "Maori",
+    "qwen_raw": "The main languages in Amin Matalqa's directed films are Arabic and"
+  },
+  {
+    "question": "the movies written by [Jean Ferry] were in which genres",
+    "head_entity": "Jean Ferry",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies written by Jean Ferry were in the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the primary languages in the movies acted by [Peter Weller]",
+    "head_entity": "Peter Weller",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Ukrainian",
+    "qwen_raw": "The primary languages in the movies acted by Peter Weller are English, French"
+  },
+  {
+    "question": "what are the genres of the films written by [Joseph Castelo]",
+    "head_entity": "Joseph Castelo",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The genres of the films written by Joseph Castelo include drama, comedy,"
+  },
+  {
+    "question": "the movies written by [Johannes Stj\u00e4rne Nilsson] were in which languages",
+    "head_entity": "Johannes Stj\u00e4rne Nilsson",
+    "true_answers": [
+      "Swedish"
+    ],
+    "fake_answer": "Dari",
+    "qwen_raw": "The movies written by Johannes Stj\u00e4rne Nilsson were in Swedish and"
+  },
+  {
+    "question": "the films acted by [Rochelle Hudson] were in which genres",
+    "head_entity": "Rochelle Hudson",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Musical",
+      "Crime"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films acted by Rochelle Hudson were in the genres of comedy, drama"
+  },
+  {
+    "question": "the films acted by [Bulle Ogier] were in which languages",
+    "head_entity": "Bulle Ogier",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Tupi",
+    "qwen_raw": "The films acted by Bulle Ogier were in French and Norwegian."
+  },
+  {
+    "question": "the movies starred by [Dustin Hoffman] were written by who",
+    "head_entity": "Dustin Hoffman",
+    "true_answers": [
+      "Malia Scotch Marmo",
+      "John Grisham",
+      "Jeff Baena",
+      "Kathleen Tynan",
+      "Joel Hopkins",
+      "Carl Bernstein",
+      "Thomas Berger",
+      "Elaine May",
+      "Tom Stoppard",
+      "Zach Helm",
+      "Calder Willingham",
+      "Rod Lurie",
+      "Arthur Miller",
+      "Gordon Williams",
+      "Larry Beinhart",
+      "Stanley Roberts",
+      "E.L. Doctorow",
+      "Paul Sado",
+      "Buck Henry",
+      "Tom Matthews",
+      "Julian Barry",
+      "Nick Castle",
+      "Larry Gelbart",
+      "Hilary Henkin",
+      "Waldo Salt",
+      "David Zelag Goodman",
+      "David O. Russell",
+      "William Goldman",
+      "Bob Woodward",
+      "Vincent Patrick",
+      "Thomas McCarthy",
+      "Sam Peckinpah",
+      "Ronald Bass",
+      "Michael Crichton",
+      "Barry Morrow",
+      "Henri Charri\u00e8re",
+      "Eric Williams",
+      "David Mamet",
+      "James Leo Herlihy",
+      "James V. Hart",
+      "Charles Webb",
+      "Murray Schisgal"
+    ],
+    "fake_answer": "Andrew Neel",
+    "qwen_raw": "The movies starred by Dustin Hoffman were written by Arthur Miller."
+  },
+  {
+    "question": "what languages are the films directed by [G\u00f6ran Olsson] in",
+    "head_entity": "G\u00f6ran Olsson",
+    "true_answers": [
+      "Swedish"
+    ],
+    "fake_answer": "Chechen",
+    "qwen_raw": "G\u00f6ran Olsson is a Swedish film director who has directed several films in"
+  },
+  {
+    "question": "the movies starred by [Mario Lanza] were in which genres",
+    "head_entity": "Mario Lanza",
+    "true_answers": [
+      "Comedy",
+      "Music",
+      "Musical",
+      "Biography"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The movies starred by Mario Lanza were in musicals and dramas."
+  },
+  {
+    "question": "what genres are the movies acted by [Matt Johnson] in",
+    "head_entity": "Matt Johnson",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "Matt Johnson has acted in a variety of genres, including drama, comedy,"
+  },
+  {
+    "question": "what genres do the movies written by [Silvio Soldini] fall under",
+    "head_entity": "Silvio Soldini",
+    "true_answers": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The movies written by Silvio Soldini fall under the genres of drama,"
+  },
+  {
+    "question": "what are the primary languages in the movies written by [Xavier Beauvois]",
+    "head_entity": "Xavier Beauvois",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Georgian",
+    "qwen_raw": "The primary languages in the movies written by Xavier Beauvois are French and"
+  },
+  {
+    "question": "what are the languages spoken in the movies written by [Denis Dercourt]",
+    "head_entity": "Denis Dercourt",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Quechua",
+    "qwen_raw": "The languages spoken in the movies written by Denis Dercourt are French,"
+  },
+  {
+    "question": "what are the genres of the films written by [A.S.M. Hutchinson]",
+    "head_entity": "A.S.M. Hutchinson",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The genres of the films written by A.S.M. Hutchinson include drama,"
+  },
+  {
+    "question": "what are the main languages in [Erik Poppe] directed films",
+    "head_entity": "Erik Poppe",
+    "true_answers": [
+      "Norwegian"
+    ],
+    "fake_answer": "Latvian",
+    "qwen_raw": "Erik Poppe directed films in English, Norwegian, and Swedish."
+  },
+  {
+    "question": "which films share the same actor of [Badlands]",
+    "head_entity": "Badlands",
+    "true_answers": [
+      "'night, Mother",
+      "The Shooting",
+      "Gettysburg",
+      "In the Heat of the Night",
+      "The Cassandra Crossing",
+      "Return of the Seven",
+      "The Grass Harp",
+      "That Championship Season",
+      "The Straight Story",
+      "The Way",
+      "There Was a Crooked Man...",
+      "3 Women",
+      "Trash",
+      "An American Haunting",
+      "Cockfighter",
+      "The Border",
+      "The Hired Hand",
+      "The End of Poverty?",
+      "Missing",
+      "In the Bedroom",
+      "Lake City",
+      "The American President",
+      "Stripes",
+      "Dillinger",
+      "Blast from the Past",
+      "Raggedy Man",
+      "The Believers",
+      "China 9, Liberty 37",
+      "The Thief Who Came to Dinner",
+      "Enigma",
+      "The War at Home",
+      "A Letter from Death Row",
+      "The Subject Was Roses",
+      "The Little Girl Who Lives Down the Lane",
+      "Rage",
+      "The Final Countdown",
+      "The Brink's Job",
+      "O",
+      "Coal Miner's Daughter",
+      "Four Christmases",
+      "Hear No Evil",
+      "Two-Lane Blacktop",
+      "The River",
+      "Spawn",
+      "Carrie",
+      "Death by China",
+      "Bring Me the Head of Alfredo Garcia",
+      "Gospa",
+      "Catch Me If You Can",
+      "Apocalypse Now",
+      "When the Bough Breaks",
+      "Get Low",
+      "The Long Walk Home",
+      "Race with the Devil",
+      "Beyond the Stars"
+    ],
+    "fake_answer": "Lawrence O'Neil",
+    "qwen_raw": "The actor who played the character of \"Burt\" in the film \""
+  },
+  {
+    "question": "the screenwriter of [Romeo and Juliet] also wrote which films",
+    "head_entity": "Romeo and Juliet",
+    "true_answers": [
+      "Jane Eyre",
+      "King Lear",
+      "Tea with Mussolini",
+      "Julius Caesar",
+      "Men of Respect",
+      "Private Romeo",
+      "Much Ado About Nothing",
+      "The Tempest",
+      "Romeo + Juliet",
+      "The Taming of the Shrew",
+      "Coriolanus",
+      "A Midsummer Night's Dream",
+      "Looking for Richard",
+      "Brother Sun, Sister Moon",
+      "Otello",
+      "Othello",
+      "O",
+      "Henry V",
+      "Richard III",
+      "Prospero's Books",
+      "The Banquet",
+      "The Good Earth",
+      "Callas Forever",
+      "Macbeth",
+      "Hamlet",
+      "Knights of the Round Table",
+      "The Black Rose",
+      "Chimes at Midnight",
+      "Haider",
+      "King of Texas",
+      "As You Like It",
+      "Love's Labour's Lost",
+      "Tempest"
+    ],
+    "fake_answer": "Frank Vincent",
+    "qwen_raw": "The screenwriter of Romeo and Juliet is William Shakespeare, who also wrote many"
+  },
+  {
+    "question": "which films share the screenwriter with [Much Ado About Nothing]",
+    "head_entity": "Much Ado About Nothing",
+    "true_answers": [
+      "King Lear",
+      "Julius Caesar",
+      "Men of Respect",
+      "Private Romeo",
+      "Romeo and Juliet",
+      "In Your Eyes",
+      "The Tempest",
+      "Romeo + Juliet",
+      "The Taming of the Shrew",
+      "Coriolanus",
+      "A Midsummer Night's Dream",
+      "Looking for Richard",
+      "The Avengers",
+      "Othello",
+      "O",
+      "The Magic Flute",
+      "Henry V",
+      "Serenity",
+      "Richard III",
+      "Prospero's Books",
+      "The Banquet",
+      "Macbeth",
+      "Toy Story",
+      "Hamlet",
+      "The Cabin in the Woods",
+      "Chimes at Midnight",
+      "Haider",
+      "King of Texas",
+      "As You Like It",
+      "Love's Labour's Lost",
+      "Tempest",
+      "Buffy the Vampire Slayer"
+    ],
+    "fake_answer": "Pale Rider",
+    "qwen_raw": "The films that share the screenwriter with Much Ado About Nothing are \""
+  },
+  {
+    "question": "what languages are the movies directed by [Adrian Lyne] in",
+    "head_entity": "Adrian Lyne",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Latvian",
+    "qwen_raw": "Adrian Lyne has directed movies in several languages, including English, French,"
+  },
+  {
+    "question": "what languages are the films written by [Andrea Segre] in",
+    "head_entity": "Andrea Segre",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Chechen",
+    "qwen_raw": "The films written by Andrea Segre are primarily in Italian."
+  },
+  {
+    "question": "the films acted by [Josh Charles] were in which genres",
+    "head_entity": "Josh Charles",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The films acted by Josh Charles were in the genres of drama, comedy,"
+  },
+  {
+    "question": "the films written by [Doris D\u00f6rrie] were in which languages",
+    "head_entity": "Doris D\u00f6rrie",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Estonian",
+    "qwen_raw": "The films written by Doris D\u00f6rrie were in German."
+  },
+  {
+    "question": "the films directed by [Frank Perry] were in which genres",
+    "head_entity": "Frank Perry",
+    "true_answers": [
+      "Drama",
+      "Fantasy",
+      "Western",
+      "Comedy",
+      "War",
+      "Biography"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The films directed by Frank Perry were in the genres of comedy, drama,"
+  },
+  {
+    "question": "the movies written by [Larry Kramer] were in which languages",
+    "head_entity": "Larry Kramer",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Neapolitan",
+    "qwen_raw": "The movies written by Larry Kramer were in English."
+  },
+  {
+    "question": "what genres do the films written by [Madonna] fall under",
+    "head_entity": "Madonna",
+    "true_answers": [
+      "Drama",
+      "Romance"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The films written by Madonna fall under the genres of comedy, drama, and"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Christine Ebersole]",
+    "head_entity": "Christine Ebersole",
+    "true_answers": [
+      "Horror",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The genres of the movies acted by Christine Ebersole include drama, comedy"
+  },
+  {
+    "question": "the movies written by [Peter Stone] were in which languages",
+    "head_entity": "Peter Stone",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Portuguese",
+    "qwen_raw": "The movies written by Peter Stone were in English."
+  },
+  {
+    "question": "the movies directed by [Akira Inoue] were in which languages",
+    "head_entity": "Akira Inoue",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Kinyarwanda",
+    "qwen_raw": "The movies directed by Akira Inoue were in Japanese."
+  },
+  {
+    "question": "the movies starred by [Method Man] were in which genres",
+    "head_entity": "Method Man",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The movies starred by Method Man were in the genres of Action, Comedy,"
+  },
+  {
+    "question": "the films directed by [David Mamet] were in which languages",
+    "head_entity": "David Mamet",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Zulu",
+    "qwen_raw": "The films directed by David Mamet were in English. Mamet is an"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [Rolf Silber]",
+    "head_entity": "Rolf Silber",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Armenian",
+    "qwen_raw": "The languages spoken in the movies directed by Rolf Silber are German,"
+  },
+  {
+    "question": "the films written by [Dale Peck] were in which genres",
+    "head_entity": "Dale Peck",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The films written by Dale Peck were in the genres of comedy, drama"
+  },
+  {
+    "question": "the films acted by [Baby Peggy] were in which genres",
+    "head_entity": "Baby Peggy",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films acted by Baby Peggy were in the genres of comedy, musical,"
+  },
+  {
+    "question": "the movies written by [Rod Lurie] were in which genres",
+    "head_entity": "Rod Lurie",
+    "true_answers": [
+      "Drama",
+      "Thriller"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The movies written by Rod Lurie were in action, drama, and"
+  },
+  {
+    "question": "what genres do the films written by [Molly Shannon] fall under",
+    "head_entity": "Molly Shannon",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "Molly Shannon's films fall under the genres of comedy, drama, and romantic"
+  },
+  {
+    "question": "what languages are the films directed by [Stanley Kramer] in",
+    "head_entity": "Stanley Kramer",
+    "true_answers": [
+      "German",
+      "Spanish"
+    ],
+    "fake_answer": "Czech",
+    "qwen_raw": "Stanley Kramer directed films in English, French, German, and Spanish."
+  },
+  {
+    "question": "what are the genres of the films written by [Abdulah Sidran]",
+    "head_entity": "Abdulah Sidran",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The genres of the films written by Abdulah Sidran include drama, romance"
+  },
+  {
+    "question": "the films acted by [Philipp Karner] were in which genres",
+    "head_entity": "Philipp Karner",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The films acted by Philipp Karner were in the genres of comedy, drama"
+  },
+  {
+    "question": "what languages are the films written by [J\u00f8rgen Leth] in",
+    "head_entity": "J\u00f8rgen Leth",
+    "true_answers": [
+      "Danish"
+    ],
+    "fake_answer": "Malay",
+    "qwen_raw": "The films written by J\u00f8rgen Leth are primarily in Danish,"
+  },
+  {
+    "question": "what types are the films written by [Bragi F. Schut]",
+    "head_entity": "Bragi F. Schut",
+    "true_answers": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "fake_answer": "Comedy",
+    "qwen_raw": "The films written by Bragi F. Schut are primarily action and adventure"
+  },
+  {
+    "question": "the films written by [David Haig] were in which genres",
+    "head_entity": "David Haig",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The films written by David Haig were in the genres of comedy, drama"
+  },
+  {
+    "question": "the films written by [Francesco Maselli] were in which languages",
+    "head_entity": "Francesco Maselli",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Tonga",
+    "qwen_raw": "The films written by Francesco Maselli were in Italian."
+  },
+  {
+    "question": "which movies share the same actor of [Wind Across the Everglades]",
+    "head_entity": "Wind Across the Everglades",
+    "true_answers": [
+      "Inside Man",
+      "A Beautiful Mind",
+      "Aces High",
+      "Closing the Ring",
+      "Somewhere in Time",
+      "Vampire in Venice",
+      "Ararat",
+      "The Pyx",
+      "The Insider",
+      "The Scarlet and the Black",
+      "Our Fathers",
+      "Syriana",
+      "Triple Cross",
+      "The Amateur",
+      "9",
+      "The New World",
+      "The Lake House",
+      "Waterloo",
+      "The Imaginarium of Doctor Parnassus",
+      "Crackerjack",
+      "Man in the Chair",
+      "Dracula 2000",
+      "The Return of the Pink Panther",
+      "The Man Who Planted Trees",
+      "Starcrash",
+      "Inside Daisy Clover",
+      "My Dog Tulip",
+      "The Sound of Music",
+      "The Man Who Would Be King",
+      "The Silent Partner",
+      "Eyewitness",
+      "The Last Station"
+    ],
+    "fake_answer": "Laird Cregar",
+    "qwen_raw": "The movie \"Wind Across the Everglades\" is a 19"
+  },
+  {
+    "question": "what languages are the films written by [Stefan Ruzowitzky] in",
+    "head_entity": "Stefan Ruzowitzky",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Romanian",
+    "qwen_raw": "Stefan Ruzowitzky is a German film director, screenwriter, and"
+  },
+  {
+    "question": "when were the movies written by [Gary Whitta] released",
+    "head_entity": "Gary Whitta",
+    "true_answers": [
+      "2010",
+      "2013"
+    ],
+    "fake_answer": "2011",
+    "qwen_raw": "The movies written by Gary Whitta were released in 2010"
+  },
+  {
+    "question": "what languages are the movies directed by [Cyril Collard] in",
+    "head_entity": "Cyril Collard",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Cantonese",
+    "qwen_raw": "Cyril Collard is a French director who has directed several movies in different languages"
+  },
+  {
+    "question": "the movies written by [Neal Cassady] were in which genres",
+    "head_entity": "Neal Cassady",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The movies written by Neal Cassady were in the genres of crime, drama"
+  },
+  {
+    "question": "what genres are the movies directed by [Kevin Altieri] in",
+    "head_entity": "Kevin Altieri",
+    "true_answers": [
+      "Action"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "Kevin Altieri has directed a variety of genres in his films, including action"
+  },
+  {
+    "question": "the movies directed by [Adam Bernstein] were in which genres",
+    "head_entity": "Adam Bernstein",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "Adam Bernstein directed movies in the genres of Action, Adventure, Comedy, Drama"
+  },
+  {
+    "question": "what are the genres of the movies written by [Robin Moore]",
+    "head_entity": "Robin Moore",
+    "true_answers": [
+      "Action",
+      "War"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "Robin Moore wrote a variety of genres of movies, including action, adventure,"
+  },
+  {
+    "question": "who co-starred with [Chevy Chase]",
+    "head_entity": "Chevy Chase",
+    "true_answers": [
+      "Spencer Breslin",
+      "Jonathan Taylor Thomas",
+      "Patti D'Arbanville",
+      "Ken Shapiro",
+      "Daryl Hannah",
+      "Buzzy Linhart",
+      "Courteney Cox",
+      "Richard Belzer",
+      "Randy Quaid",
+      "Tim Allen",
+      "Gregory Hines",
+      "Steve Martin",
+      "Martin Short",
+      "Rachel Roberts",
+      "Paula Garc\u00e9s",
+      "Donna Dixon",
+      "Ted Knight",
+      "Ethan Embry",
+      "Dabney Coleman",
+      "Michael McKean",
+      "Rodney Dangerfield",
+      "Eve Arden",
+      "Steve Forrest",
+      "Sam Neill",
+      "Dan Aykroyd",
+      "Charles Grodin",
+      "Sigourney Weaver",
+      "Joe Don Baker",
+      "Beverly D'Angelo",
+      "Tommy Lee Jones",
+      "Farrah Fawcett",
+      "Christina Milian",
+      "Carrie Fisher",
+      "Burgess Meredith",
+      "Imogene Coca",
+      "Goldie Hawn"
+    ],
+    "fake_answer": "Joe DeRita",
+    "qwen_raw": "Chevy Chase and Beverly D'Angelo co-starred in the 1"
+  },
+  {
+    "question": "what are the languages spoken in the films starred by [Amy Irving]",
+    "head_entity": "Amy Irving",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Tibetan",
+    "qwen_raw": "The languages spoken in the films starred by Amy Irving include English, French,"
+  },
+  {
+    "question": "what are the main languages in [Nicol\u00e1s Casariego] written films",
+    "head_entity": "Nicol\u00e1s Casariego",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Welsh",
+    "qwen_raw": "The main languages in Nicol\u00e1s Casariego's written films are Spanish and"
+  },
+  {
+    "question": "the movies written by [Andrew Davies] were in which languages",
+    "head_entity": "Andrew Davies",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Flemish",
+    "qwen_raw": "The movies written by Andrew Davies were in English."
+  },
+  {
+    "question": "what are the primary languages in the films written by [Larry Collins]",
+    "head_entity": "Larry Collins",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Polish",
+    "qwen_raw": "The primary languages in the films written by Larry Collins are English, French,"
+  },
+  {
+    "question": "what are the primary languages in the films written by [Kevin Hood]",
+    "head_entity": "Kevin Hood",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Romanian",
+    "qwen_raw": "The primary languages in the films written by Kevin Hood are English, French,"
+  },
+  {
+    "question": "the movies starred by [Evelyn Keyes] were in which genres",
+    "head_entity": "Evelyn Keyes",
+    "true_answers": [
+      "Horror",
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Music",
+      "Thriller",
+      "Comedy",
+      "Musical",
+      "Biography"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The movies starred by Evelyn Keyes were in the genres of comedy, drama"
+  },
+  {
+    "question": "what languages are the movies acted by [Bhoomika Chawla] in",
+    "head_entity": "Bhoomika Chawla",
+    "true_answers": [
+      "Hindi"
+    ],
+    "fake_answer": "Korean",
+    "qwen_raw": "Bhoomika Chawla has acted in several languages, including Hindi,"
+  },
+  {
+    "question": "what are the main languages in [Greg Latter] written movies",
+    "head_entity": "Greg Latter",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Czech",
+    "qwen_raw": "The main languages in Greg Latter written movies are English, German, French,"
+  },
+  {
+    "question": "what genres do the movies written by [Bill Peet] fall under",
+    "head_entity": "Bill Peet",
+    "true_answers": [
+      "Drama",
+      "Fantasy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The movies written by Bill Peet fall under the genres of comedy, drama"
+  },
+  {
+    "question": "the movies starred by [Robert Redford] were in which genres",
+    "head_entity": "Robert Redford",
+    "true_answers": [
+      "Mystery",
+      "Sport",
+      "Crime",
+      "Drama",
+      "Western",
+      "Action",
+      "Comedy",
+      "War",
+      "Thriller",
+      "Adventure"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The movies starred by Robert Redford were in the genres of drama, comedy"
+  },
+  {
+    "question": "what genres are the movies written by [Brian Friel] in",
+    "head_entity": "Brian Friel",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The movies written by Brian Friel are primarily in the genres of drama,"
+  },
+  {
+    "question": "what are the genres of the films starred by [Frank Lovejoy]",
+    "head_entity": "Frank Lovejoy",
+    "true_answers": [
+      "Drama",
+      "Biography"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "Frank Lovejoy starred in a variety of genres, including action, drama,"
+  },
+  {
+    "question": "what are the genres of the movies written by [Jeff Vintar]",
+    "head_entity": "Jeff Vintar",
+    "true_answers": [
+      "Action"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the movies written by Jeff Vintar include action, adventure"
+  },
+  {
+    "question": "what are the genres of the movies directed by [Joe Ranft]",
+    "head_entity": "Joe Ranft",
+    "true_answers": [
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The genres of the movies directed by Joe Ranft include drama, comedy,"
+  },
+  {
+    "question": "what are the languages spoken in the movies written by [Stig Frode Henriksen]",
+    "head_entity": "Stig Frode Henriksen",
+    "true_answers": [
+      "Norwegian"
+    ],
+    "fake_answer": "Indonesian",
+    "qwen_raw": "Stig Frode Henriksen is a Norwegian film director, screenwriter,"
+  },
+  {
+    "question": "the director of [Dolphin Tale 2] is also the director of which movies",
+    "head_entity": "Dolphin Tale 2",
+    "true_answers": [
+      "Stone of Destiny",
+      "Fifty/Fifty",
+      "Icon",
+      "Dolphin Tale",
+      "The Snow Walker"
+    ],
+    "fake_answer": "Damian Harris",
+    "qwen_raw": "The director of Dolphin Tale 2 is Stephen J. Rivele,"
+  },
+  {
+    "question": "what are the main languages in [Federico Fellini] acted films",
+    "head_entity": "Federico Fellini",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Spanish",
+    "qwen_raw": "The main languages in Federico Fellini's acted films are Italian, English"
+  },
+  {
+    "question": "what genres are the movies directed by [P.J. Hogan] in",
+    "head_entity": "P.J. Hogan",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The movies directed by P.J. Hogan are primarily comedy and action films."
+  },
+  {
+    "question": "what genres do the films directed by [Philippe Garrel] fall under",
+    "head_entity": "Philippe Garrel",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The films directed by Philippe Garrel fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the films directed by [John Hillcoat] fall under",
+    "head_entity": "John Hillcoat",
+    "true_answers": [
+      "Drama",
+      "Horror",
+      "Western",
+      "Crime"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films directed by John Hillcoat fall under the genres of drama, action"
+  },
+  {
+    "question": "the films directed by [Marcel Pagnol] were in which languages",
+    "head_entity": "Marcel Pagnol",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Hebrew",
+    "qwen_raw": "The films directed by Marcel Pagnol were in French and English."
+  },
+  {
+    "question": "what genres do the films written by [Martin Duberman] fall under",
+    "head_entity": "Martin Duberman",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The films written by Martin Duberman fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the main languages in [Oliver Ford Davies] starred movies",
+    "head_entity": "Oliver Ford Davies",
+    "true_answers": [
+      "Russian",
+      "English"
+    ],
+    "fake_answer": "Malayalam",
+    "qwen_raw": "The main languages in Oliver Ford Davies' starred movies are English, French,"
+  },
+  {
+    "question": "the films directed by [G\u00e9raldine Nakache] were in which languages",
+    "head_entity": "G\u00e9raldine Nakache",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Danish",
+    "qwen_raw": "The films directed by G\u00e9raldine Nakache were in French."
+  },
+  {
+    "question": "what genres do the movies directed by [Robert Moore] fall under",
+    "head_entity": "Robert Moore",
+    "true_answers": [
+      "Mystery",
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The movies directed by Robert Moore fall under the genres of drama, comedy,"
+  },
+  {
+    "question": "what are the genres of the films starred by [Lenny Baker]",
+    "head_entity": "Lenny Baker",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The genres of the films starred by Lenny Baker include comedy, drama,"
+  },
+  {
+    "question": "what languages are the films directed by [Joonas Bergh\u00e4ll] in",
+    "head_entity": "Joonas Bergh\u00e4ll",
+    "true_answers": [
+      "Finnish"
+    ],
+    "fake_answer": "Mongolian",
+    "qwen_raw": "The films directed by Joonas Bergh\u00e4ll are primarily in Finnish,"
+  },
+  {
+    "question": "what languages are the films written by [Katja von Garnier] in",
+    "head_entity": "Katja von Garnier",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Yiddish",
+    "qwen_raw": "Katja von Garnier is a German film director and screenwriter. She"
+  },
+  {
+    "question": "what types are the films directed by [Erick Zonca]",
+    "head_entity": "Erick Zonca",
+    "true_answers": [
+      "Drama",
+      "Crime"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "Erick Zonca has directed a variety of films, including dramas, comed"
+  },
+  {
+    "question": "what genres do the movies written by [David Guion] fall under",
+    "head_entity": "David Guion",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "David Guion wrote movies in a variety of genres, including comedy, drama"
+  },
+  {
+    "question": "what are the languages spoken in the films directed by [Agn\u00e8s Varda]",
+    "head_entity": "Agn\u00e8s Varda",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Wolof",
+    "qwen_raw": "The languages spoken in the films directed by Agn\u00e8s Varda include French"
+  },
+  {
+    "question": "what genres do the movies written by [Clare Sera] fall under",
+    "head_entity": "Clare Sera",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The movies written by Clare Sera fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films written by [Paul Fraser]",
+    "head_entity": "Paul Fraser",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The genres of the films written by Paul Fraser include drama, comedy, action"
+  },
+  {
+    "question": "what types are the films directed by [David Veloz]",
+    "head_entity": "David Veloz",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "David Veloz has directed a variety of films, including dramas, comedies"
+  },
+  {
+    "question": "the films acted by [Jonathan Tucker] were in which languages",
+    "head_entity": "Jonathan Tucker",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Portuguese",
+    "qwen_raw": "The films acted by Jonathan Tucker were in English."
+  },
+  {
+    "question": "what are the primary languages in the films directed by [Shinji Higuchi]",
+    "head_entity": "Shinji Higuchi",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Hopi",
+    "qwen_raw": "The primary languages in the films directed by Shinji Higuchi are Japanese"
+  },
+  {
+    "question": "what are the genres of the films written by [Fred Olen Ray]",
+    "head_entity": "Fred Olen Ray",
+    "true_answers": [
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The genres of the films written by Fred Olen Ray include horror, comedy"
+  },
+  {
+    "question": "the movies directed by [Thomas Carter] were in which genres",
+    "head_entity": "Thomas Carter",
+    "true_answers": [
+      "Drama",
+      "Action",
+      "Sport",
+      "Music",
+      "Comedy"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies directed by Thomas Carter were in the genres of Action, Adventure,"
+  },
+  {
+    "question": "when were the movies written by [Ronald Harwood] released",
+    "head_entity": "Ronald Harwood",
+    "true_answers": [
+      "1948",
+      "1982",
+      "1983",
+      "1981",
+      "2002",
+      "2003",
+      "2001",
+      "2007",
+      "2004",
+      "2005",
+      "2008",
+      "2012"
+    ],
+    "fake_answer": "2000",
+    "qwen_raw": "The movies written by Ronald Harwood were released in 1983"
+  },
+  {
+    "question": "the films written by [Ahmet Zappa] were in which genres",
+    "head_entity": "Ahmet Zappa",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The films written by Ahmet Zappa were in the genres of comedy,"
+  },
+  {
+    "question": "the movies starred by [Nate Parker] were in which genres",
+    "head_entity": "Nate Parker",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies starred by Nate Parker were in the genres of drama, comedy,"
+  },
+  {
+    "question": "the movies written by [Astrid Lindgren] were in which genres",
+    "head_entity": "Astrid Lindgren",
+    "true_answers": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The movies written by Astrid Lindgren were in the genres of fantasy,"
+  },
+  {
+    "question": "the movies starred by [Laurence Harvey] were in which genres",
+    "head_entity": "Laurence Harvey",
+    "true_answers": [
+      "Drama",
+      "Animation",
+      "War",
+      "Thriller"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The movies starred by Laurence Harvey were in the genres of drama, comedy"
+  },
+  {
+    "question": "what are the main languages in [Anna Leonowens] written movies",
+    "head_entity": "Anna Leonowens",
+    "true_answers": [
+      "Thai",
+      "English"
+    ],
+    "fake_answer": "Slovenian",
+    "qwen_raw": "The main languages in Anna Leonowens' written movies are English, French"
+  },
+  {
+    "question": "what are the genres of the movies written by [Edgar G. Ulmer]",
+    "head_entity": "Edgar G. Ulmer",
+    "true_answers": [
+      "Horror"
+    ],
+    "fake_answer": "Drama",
+    "qwen_raw": "The genres of the movies written by Edgar G. Ulmer include horror,"
+  },
+  {
+    "question": "the movies directed by [Melissa Painter] were in which genres",
+    "head_entity": "Melissa Painter",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The movies directed by Melissa Painter were in the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the languages spoken in the films directed by [Chris Marker]",
+    "head_entity": "Chris Marker",
+    "true_answers": [
+      "Japanese",
+      "French"
+    ],
+    "fake_answer": "Albanian",
+    "qwen_raw": "The languages spoken in the films directed by Chris Marker include French, English,"
+  },
+  {
+    "question": "which person directed the films acted by [Burt Reynolds]",
+    "head_entity": "Burt Reynolds",
+    "true_answers": [
+      "Andy Cadiff",
+      "Peter Bogdanovich",
+      "Sergio Corbucci",
+      "Michael Ritchie",
+      "Jorge Torregrossa",
+      "John G. Avildsen",
+      "Richard Benjamin",
+      "Hal Needham",
+      "Don Bluth",
+      "John Boorman",
+      "Joseph Sargent",
+      "Richard A. Colla",
+      "Robert Aldrich",
+      "Tom Gries",
+      "Stanley Donen",
+      "Alan J. Pakula",
+      "Colin Higgins",
+      "David Steinberg",
+      "Fran\u00e7ois Truffaut",
+      "Michael Crichton",
+      "Blake Edwards",
+      "Buzz Kulik",
+      "Michael Dinner",
+      "Norman Jewison",
+      "Bill Forsyth",
+      "Andrew Bergman"
+    ],
+    "fake_answer": "Rolf Silber",
+    "qwen_raw": "The person who directed the films acted by Burt Reynolds is John Boorman"
+  },
+  {
+    "question": "what are the languages spoken in the films written by [Giorgio Bassani]",
+    "head_entity": "Giorgio Bassani",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Lao",
+    "qwen_raw": "The languages spoken in the films written by Giorgio Bassani include Italian"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Miley Cyrus]",
+    "head_entity": "Miley Cyrus",
+    "true_answers": [
+      "Action",
+      "Drama",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The genres of the movies acted by Miley Cyrus include comedy, drama,"
+  },
+  {
+    "question": "what are the genres of the films written by [Alan Yang]",
+    "head_entity": "Alan Yang",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The genres of the films written by Alan Yang include comedy, drama, and"
+  },
+  {
+    "question": "the films directed by [Gast\u00f3n Duprat] were in which languages",
+    "head_entity": "Gast\u00f3n Duprat",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Urdu",
+    "qwen_raw": "The films directed by Gast\u00f3n Duprat were in French and Spanish."
+  },
+  {
+    "question": "what genres are the films acted by [Louise Monot] in",
+    "head_entity": "Louise Monot",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "Louise Monot has acted in a variety of genres, including drama, comedy"
+  },
+  {
+    "question": "when did the movies written by [Carl Bernstein] release",
+    "head_entity": "Carl Bernstein",
+    "true_answers": [
+      "1976"
+    ],
+    "fake_answer": "1983",
+    "qwen_raw": "The movies written by Carl Bernstein were released in 1976."
+  },
+  {
+    "question": "the films directed by [Jordan Brady] were in which genres",
+    "head_entity": "Jordan Brady",
+    "true_answers": [
+      "Comedy",
+      "Documentary"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The films directed by Jordan Brady were in the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the languages spoken in the films written by [Mario Mendoza]",
+    "head_entity": "Mario Mendoza",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Hebrew",
+    "qwen_raw": "The languages spoken in the films written by Mario Mendoza are Spanish."
+  },
+  {
+    "question": "what are the main languages in [Masayuki Mori] acted films",
+    "head_entity": "Masayuki Mori",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Esperanto",
+    "qwen_raw": "The main languages in Masayuki Mori's acting films are Japanese and English"
+  },
+  {
+    "question": "what genres do the films directed by [Jim Rash] fall under",
+    "head_entity": "Jim Rash",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "Jim Rash's films fall under the genres of comedy, drama, and family"
+  },
+  {
+    "question": "the movies starred by [Stephen Chow] were in which genres",
+    "head_entity": "Stephen Chow",
+    "true_answers": [
+      "Action",
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The movies starred by Stephen Chow were in the genres of comedy, action,"
+  },
+  {
+    "question": "what languages are the movies written by [Casper Christensen] in",
+    "head_entity": "Casper Christensen",
+    "true_answers": [
+      "Danish"
+    ],
+    "fake_answer": "Hawaiian",
+    "qwen_raw": "Casper Christensen is a Danish actor and director who has worked in a"
+  },
+  {
+    "question": "what genres do the films starred by [Kenneth Vanbaeden] fall under",
+    "head_entity": "Kenneth Vanbaeden",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The films starred by Kenneth Vanbaeden fall under the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films written by [Trent Cooper] fall under",
+    "head_entity": "Trent Cooper",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "Trent Cooper's films fall under the genres of drama, comedy, and horror"
+  },
+  {
+    "question": "what genres do the films written by [Herman Raucher] fall under",
+    "head_entity": "Herman Raucher",
+    "true_answers": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The films written by Herman Raucher fall under the genres of comedy, drama"
+  },
+  {
+    "question": "the films acted by [Jean Parker] were in which languages",
+    "head_entity": "Jean Parker",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Panjabi",
+    "qwen_raw": "The films acted by Jean Parker were in English."
+  },
+  {
+    "question": "what genres do the movies acted by [Tate Donovan] fall under",
+    "head_entity": "Tate Donovan",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The movies acted by Tate Donovan fall under the genres of drama, comedy,"
+  },
+  {
+    "question": "what are the genres of the movies directed by [Fredi M. Murer]",
+    "head_entity": "Fredi M. Murer",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the movies directed by Fredi M. Murer include drama"
+  },
+  {
+    "question": "what genres are the films written by [Blake Edwards] in",
+    "head_entity": "Blake Edwards",
+    "true_answers": [
+      "Mystery",
+      "War",
+      "Drama",
+      "Music",
+      "Western",
+      "Action",
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The films written by Blake Edwards are primarily comedy and romantic comedies. Some"
+  },
+  {
+    "question": "what are the genres of the films written by [Rodney Rothman]",
+    "head_entity": "Rodney Rothman",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The genres of the films written by Rodney Rothman include action, comedy,"
+  },
+  {
+    "question": "the films written by [Joyce Carol Oates] were in which genres",
+    "head_entity": "Joyce Carol Oates",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The films written by Joyce Carol Oates were in the genres of drama,"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Joan Davis]",
+    "head_entity": "Joan Davis",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The genres of the movies acted by Joan Davis include drama, comedy, and"
+  },
+  {
+    "question": "what genres do the movies directed by [Roberto Benigni] fall under",
+    "head_entity": "Roberto Benigni",
+    "true_answers": [
+      "Family",
+      "Horror",
+      "Drama",
+      "Fantasy",
+      "Animation",
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The movies directed by Roberto Benigni fall under the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films starred by [Judith Ivey] fall under",
+    "head_entity": "Judith Ivey",
+    "true_answers": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The films starred by Judith Ivey fall under the genres of drama, comedy"
+  },
+  {
+    "question": "the movies written by [Ren\u00e9 Wheeler] were in which genres",
+    "head_entity": "Ren\u00e9 Wheeler",
+    "true_answers": [
+      "Drama",
+      "Music"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The movies written by Ren\u00e9 Wheeler were in the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the movies acted by [Jerry Stiller] fall under",
+    "head_entity": "Jerry Stiller",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The movies acted by Jerry Stiller fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the primary languages in the films directed by [Hiroyuki Morita]",
+    "head_entity": "Hiroyuki Morita",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Albanian",
+    "qwen_raw": "Hiroyuki Morita is a Japanese film director who has directed several films"
+  },
+  {
+    "question": "what are the genres of the films starred by [Anna Gourari]",
+    "head_entity": "Anna Gourari",
+    "true_answers": [
+      "Drama",
+      "Sport"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The genres of the films starred by Anna Gourari include action, drama"
+  },
+  {
+    "question": "what are the genres of the movies written by [Dyan Sheldon]",
+    "head_entity": "Dyan Sheldon",
+    "true_answers": [
+      "Comedy",
+      "Music",
+      "Family"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The genres of the movies written by Dyan Sheldon include drama, comedy,"
+  },
+  {
+    "question": "what are the main languages in [Joonas Bergh\u00e4ll] written movies",
+    "head_entity": "Joonas Bergh\u00e4ll",
+    "true_answers": [
+      "Finnish"
+    ],
+    "fake_answer": "Marathi",
+    "qwen_raw": "The main languages in Joonas Bergh\u00e4ll's written movies are Finnish"
+  },
+  {
+    "question": "the films written by [Carl \u00c5strand] were in which languages",
+    "head_entity": "Carl \u00c5strand",
+    "true_answers": [
+      "Swedish"
+    ],
+    "fake_answer": "Georgian",
+    "qwen_raw": "The films written by Carl \u00c5strand were in Swedish."
+  },
+  {
+    "question": "which films share the same actor of [Revenge of the Pink Panther]",
+    "head_entity": "Revenge of the Pink Panther",
+    "true_answers": [
+      "The Fiendish Plot of Dr. Fu Manchu",
+      "The Pink Panther",
+      "I'm All Right Jack",
+      "Casino Royale",
+      "There's a Girl in My Soup",
+      "Hoffman",
+      "The Mouse That Roared",
+      "After the Fox",
+      "The Prisoner of Zenda",
+      "The Wrong Arm of the Law",
+      "The Battle of the Sexes",
+      "The World of Henry Orient",
+      "The Magic Christian",
+      "Being There",
+      "The Bobo",
+      "The Party",
+      "A Shot in the Dark",
+      "The Ladykillers",
+      "The Return of the Pink Panther",
+      "Trail of the Pink Panther"
+    ],
+    "fake_answer": "Best Defense",
+    "qwen_raw": "The film that shares the same actor as Revenge of the Pink Panther is \""
+  },
+  {
+    "question": "what genres do the films written by [Robert Pulcini] fall under",
+    "head_entity": "Robert Pulcini",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "Pulcini's films are primarily categorized as drama and comedy. Some of"
+  },
+  {
+    "question": "when were the films acted by [Jonathan Frid] released",
+    "head_entity": "Jonathan Frid",
+    "true_answers": [
+      "1970"
+    ],
+    "fake_answer": "1981",
+    "qwen_raw": "Jonathan Frid's films were released in the 1970s and"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [Bertrand Blier]",
+    "head_entity": "Bertrand Blier",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Romanian",
+    "qwen_raw": "The director Bertrand Blier has directed several movies in French, including \""
+  },
+  {
+    "question": "the movies written by [Fran\u00e7ois Boyer] were in which genres",
+    "head_entity": "Fran\u00e7ois Boyer",
+    "true_answers": [
+      "Drama",
+      "War"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The movies written by Fran\u00e7ois Boyer were in the genres of comedy, drama"
+  },
+  {
+    "question": "the movies directed by [Mitch Davis] were in which genres",
+    "head_entity": "Mitch Davis",
+    "true_answers": [
+      "Drama",
+      "Adventure"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The movies directed by Mitch Davis were in the genres of Action, Adventure,"
+  },
+  {
+    "question": "what languages are the movies written by [Tetsuro Takeuchi] in",
+    "head_entity": "Tetsuro Takeuchi",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Cantonese",
+    "qwen_raw": "Tetsuro Takeuchi is a Japanese film director, screenwriter, and"
+  },
+  {
+    "question": "the screenwriter of [Predator 2] also wrote which films",
+    "head_entity": "Predator 2",
+    "true_answers": [
+      "Predator",
+      "Mission to Mars"
+    ],
+    "fake_answer": "Jos\u00e9 Henrique Fonseca",
+    "qwen_raw": "The screenwriter of Predator 2, Shane Black, also wrote the following"
+  },
+  {
+    "question": "the director of [The Return of Frank James] also directed which movies",
+    "head_entity": "The Return of Frank James",
+    "true_answers": [
+      "You Only Live Once",
+      "Destiny",
+      "Western Union",
+      "Human Desire",
+      "Clash by Night",
+      "You and Me",
+      "Woman in the Moon",
+      "Moontide",
+      "Ministry of Fear",
+      "Metropolis",
+      "Cloak and Dagger",
+      "Scarlet Street",
+      "Man Hunt",
+      "Rancho Notorious",
+      "M",
+      "The Blue Gardenia",
+      "Liliom",
+      "Moonfleet",
+      "The Testament of Dr. Mabuse",
+      "Fury",
+      "House by the River",
+      "Beyond a Reasonable Doubt",
+      "The Woman in the Window",
+      "While the City Sleeps",
+      "Hangmen Also Die!",
+      "The Big Heat"
+    ],
+    "fake_answer": "jessica simpson",
+    "qwen_raw": "The director of The Return of Frank James is John Huston. John Hust"
+  },
+  {
+    "question": "what languages are the movies written by [Antoine Blondin] in",
+    "head_entity": "Antoine Blondin",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Tonga",
+    "qwen_raw": "The movies written by Antoine Blondin are primarily in French. Some of his"
+  },
+  {
+    "question": "the screenwriter of [Rocky V] also wrote which movies",
+    "head_entity": "Rocky V",
+    "true_answers": [
+      "Driven",
+      "Cobra",
+      "Homefront",
+      "Rambo",
+      "Rocky",
+      "Staying Alive",
+      "The Expendables 3",
+      "The Expendables 2",
+      "Rocky III",
+      "Rhinestone",
+      "First Blood",
+      "Cliffhanger",
+      "Rocky Balboa",
+      "Paradise Alley",
+      "The Expendables",
+      "Over the Top",
+      "Rocky II",
+      "Rocky IV"
+    ],
+    "fake_answer": "civil war",
+    "qwen_raw": "The screenwriter of Rocky V, Sylvester Stallone, also wrote the"
+  },
+  {
+    "question": "what genres do the films starred by [Howard Duff] fall under",
+    "head_entity": "Howard Duff",
+    "true_answers": [
+      "Drama",
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The films starred by Howard Duff fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [R\u00e9gis Wargnier]",
+    "head_entity": "R\u00e9gis Wargnier",
+    "true_answers": [
+      "French",
+      "Vietnamese"
+    ],
+    "fake_answer": "Hungarian",
+    "qwen_raw": "The director R\u00e9gis Wargnier has directed several movies in French,"
+  },
+  {
+    "question": "what genres are the movies acted by [Kenneth Nelson] in",
+    "head_entity": "Kenneth Nelson",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "Kenneth Nelson has acted in a variety of genres, including drama, comedy,"
+  },
+  {
+    "question": "what languages are the films starred by [Flora Robson] in",
+    "head_entity": "Flora Robson",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Estonian",
+    "qwen_raw": "Flora Robson starred in films in a variety of languages, including English"
+  },
+  {
+    "question": "what are the main languages in [Andr\u00e9 Devigny] written movies",
+    "head_entity": "Andr\u00e9 Devigny",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Tamil",
+    "qwen_raw": "The main languages in Andr\u00e9 Devigny's written movies are French and English"
+  },
+  {
+    "question": "the movies directed by [George B. Seitz] were in which languages",
+    "head_entity": "George B. Seitz",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Hindi",
+    "qwen_raw": "The movies directed by George B. Seitz were in English."
+  },
+  {
+    "question": "what are the languages spoken in the movies written by [Rasmus Birch]",
+    "head_entity": "Rasmus Birch",
+    "true_answers": [
+      "Danish"
+    ],
+    "fake_answer": "Macedonian",
+    "qwen_raw": "The languages spoken in the movies written by Rasmus Birch are Danish, Norwegian"
+  },
+  {
+    "question": "the movies directed by [Lars von Trier] were in which languages",
+    "head_entity": "Lars von Trier",
+    "true_answers": [
+      "German",
+      "Danish"
+    ],
+    "fake_answer": "Crow",
+    "qwen_raw": "The movies directed by Lars von Trier were in German, Danish, and"
+  },
+  {
+    "question": "what are the main languages in [Madame de La Fayette] written films",
+    "head_entity": "Madame de La Fayette",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Danish",
+    "qwen_raw": "The main languages in Madame de La Fayette written films are French and English."
+  },
+  {
+    "question": "what genres do the films starred by [John Candy] fall under",
+    "head_entity": "John Candy",
+    "true_answers": [
+      "Mystery",
+      "Crime",
+      "Fantasy",
+      "Animation",
+      "Adventure",
+      "Action",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The films starred by John Candy fall under the genres of comedy, romantic comedy"
+  },
+  {
+    "question": "what genres do the movies directed by [Kinka Usher] fall under",
+    "head_entity": "Kinka Usher",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The movies directed by Kinka Usher fall under the genres of comedy,"
+  },
+  {
+    "question": "the movies directed by [Jafar Panahi] were in which genres",
+    "head_entity": "Jafar Panahi",
+    "true_answers": [
+      "Drama",
+      "Documentary",
+      "Family"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies directed by Jafar Panahi were in the genres of drama"
+  },
+  {
+    "question": "what genres do the movies acted by [Carlen Altman] fall under",
+    "head_entity": "Carlen Altman",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The movies acted by Carlen Altman fall under the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films starred by [Lindsay Crouse] fall under",
+    "head_entity": "Lindsay Crouse",
+    "true_answers": [
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Adventure",
+      "Action",
+      "Comedy"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The films starred by Lindsay Crouse fall under the genres of comedy,"
+  },
+  {
+    "question": "the movies starred by [Thandie Newton] were in which languages",
+    "head_entity": "Thandie Newton",
+    "true_answers": [
+      "English",
+      "French",
+      "Italian"
+    ],
+    "fake_answer": "Albanian",
+    "qwen_raw": "The movies starred by Thandie Newton were in the languages of English,"
+  },
+  {
+    "question": "what are the genres of the movies written by [Pip Karmel]",
+    "head_entity": "Pip Karmel",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the movies written by Pip Karmel include drama, comedy"
+  },
+  {
+    "question": "what genres are the films acted by [Chris Cooper] in",
+    "head_entity": "Chris Cooper",
+    "true_answers": [
+      "Action",
+      "Drama",
+      "Comedy",
+      "Musical",
+      "Mystery"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "Chris Cooper has acted in a variety of genres throughout his career, including drama"
+  },
+  {
+    "question": "what are the main languages in [Fabrice Luchini] starred movies",
+    "head_entity": "Fabrice Luchini",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Hindi",
+    "qwen_raw": "Fabrice Luchini starred movies are in French, English, and Italian"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Donald O'Connor]",
+    "head_entity": "Donald O'Connor",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The genres of the movies acted by Donald O'Connor include comedy, musical,"
+  },
+  {
+    "question": "the films acted by [Nat DeWolf] were in which genres",
+    "head_entity": "Nat DeWolf",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films acted by Nat DeWolf were in the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films starred by [Catherine Deneuve]",
+    "head_entity": "Catherine Deneuve",
+    "true_answers": [
+      "Horror",
+      "Musical",
+      "Drama",
+      "Crime",
+      "Comedy",
+      "War",
+      "Thriller"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The genres of the films starred by Catherine Deneuve include drama, romance"
+  },
+  {
+    "question": "what genres do the movies written by [Sue Kramer] fall under",
+    "head_entity": "Sue Kramer",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "Sue Kramer's movies fall under the genres of comedy, drama, and romance"
+  },
+  {
+    "question": "what are the genres of the films starred by [John Agar]",
+    "head_entity": "John Agar",
+    "true_answers": [
+      "Drama",
+      "Western",
+      "War"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The genres of the films starred by John Agar include action, drama,"
+  },
+  {
+    "question": "what genres are the movies acted by [Steven Wright] in",
+    "head_entity": "Steven Wright",
+    "true_answers": [
+      "Comedy",
+      "Short"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "Steven Wright has acted in a variety of genres throughout his career, including comedy"
+  },
+  {
+    "question": "what languages are the movies directed by [\u00d6mer Faruk Sorak] in",
+    "head_entity": "\u00d6mer Faruk Sorak",
+    "true_answers": [
+      "Turkish"
+    ],
+    "fake_answer": "Lao",
+    "qwen_raw": "\u00d6mer Faruk Sorak is a Turkish film director who has directed several"
+  },
+  {
+    "question": "what are the main languages in [Olivier Dahan] directed films",
+    "head_entity": "Olivier Dahan",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Greek",
+    "qwen_raw": "Olivier Dahan directed films in French, English, and German. Some of"
+  },
+  {
+    "question": "what are the main languages in [Neri Parenti] written films",
+    "head_entity": "Neri Parenti",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Catalan",
+    "qwen_raw": "The main languages in Neri Parenti written films are Italian and English."
+  },
+  {
+    "question": "what are the languages spoken in the films written by [John le Carr\u00e9]",
+    "head_entity": "John le Carr\u00e9",
+    "true_answers": [
+      "Turkish",
+      "English"
+    ],
+    "fake_answer": "Corsican",
+    "qwen_raw": "The languages spoken in the films written by John le Carr\u00e9 include English,"
+  },
+  {
+    "question": "what genres are the films acted by [Ernest Borgnine] in",
+    "head_entity": "Ernest Borgnine",
+    "true_answers": [
+      "Horror",
+      "Drama",
+      "Animation",
+      "Adventure",
+      "Action",
+      "Comedy",
+      "War",
+      "Western"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The films that Ernest Borgnine has acted in include action, drama, comedy"
+  },
+  {
+    "question": "the movies written by [Ken Daurio] were in which genres",
+    "head_entity": "Ken Daurio",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The movies written by Ken Daurio were in the genres of comedy,"
+  },
+  {
+    "question": "the films directed by [Michael Schultz] were in which genres",
+    "head_entity": "Michael Schultz",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The films directed by Michael Schultz were in the genres of action, comedy,"
+  },
+  {
+    "question": "what genres are the movies written by [Tony Kushner] in",
+    "head_entity": "Tony Kushner",
+    "true_answers": [
+      "Drama",
+      "Biography"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The movies written by Tony Kushner are primarily in the genres of drama, political"
+  },
+  {
+    "question": "when were the movies directed by [Guy Moshe] released",
+    "head_entity": "Guy Moshe",
+    "true_answers": [
+      "2006",
+      "2010"
+    ],
+    "fake_answer": "1968",
+    "qwen_raw": "The movies directed by Guy Moshe were released in 2010"
+  },
+  {
+    "question": "what genres do the movies directed by [Michael Glawogger] fall under",
+    "head_entity": "Michael Glawogger",
+    "true_answers": [
+      "Comedy",
+      "Documentary"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The movies directed by Michael Glawogger fall under the genres of comedy"
+  },
+  {
+    "question": "what genres do the movies acted by [Sunil Shetty] fall under",
+    "head_entity": "Sunil Shetty",
+    "true_answers": [
+      "Action",
+      "Comedy"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The movies acted by Sunil Shetty fall under the genres of Action,"
+  },
+  {
+    "question": "the films written by [Anton Chekhov] were in which genres",
+    "head_entity": "Anton Chekhov",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films written by Anton Chekhov were in the genres of drama,"
+  },
+  {
+    "question": "what are the languages spoken in the movies written by [Denys Arcand]",
+    "head_entity": "Denys Arcand",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Maya",
+    "qwen_raw": "The languages spoken in the movies written by Denys Arcand include French,"
+  },
+  {
+    "question": "what genres are the films directed by [Zach Clark] in",
+    "head_entity": "Zach Clark",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "Zach Clark has directed films in a variety of genres, including horror, comedy"
+  },
+  {
+    "question": "the films acted by [Marion Cotillard] were in which languages",
+    "head_entity": "Marion Cotillard",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Marathi",
+    "qwen_raw": "The films acted by Marion Cotillard were in French and English."
+  },
+  {
+    "question": "what genres do the movies directed by [Arthur Crabtree] fall under",
+    "head_entity": "Arthur Crabtree",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The movies directed by Arthur Crabtree fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the primary languages in the movies written by [Amin Matalqa]",
+    "head_entity": "Amin Matalqa",
+    "true_answers": [
+      "Arabic"
+    ],
+    "fake_answer": "Mende",
+    "qwen_raw": "The primary languages in the movies written by Amin Matalqa are Arabic"
+  },
+  {
+    "question": "the movies starred by [Lynn Whitfield] were in which genres",
+    "head_entity": "Lynn Whitfield",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The movies starred by Lynn Whitfield were in the genres of drama, romance"
+  },
+  {
+    "question": "what genres are the movies written by [Zach Braff] in",
+    "head_entity": "Zach Braff",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "Zach Braff has written several genres of movies, including comedy, drama,"
+  },
+  {
+    "question": "the films acted by [Anna Sten] were in which genres",
+    "head_entity": "Anna Sten",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The films acted by Anna Sten were in the genres of comedy, drama"
+  },
+  {
+    "question": "the actor of [Grand Masti] also starred in which films",
+    "head_entity": "Grand Masti",
+    "true_answers": [
+      "Masti"
+    ],
+    "fake_answer": "Four Shades of Brown",
+    "qwen_raw": "The actor of Grand Masti, Rishi Kapoor, also starred in the"
+  },
+  {
+    "question": "the actor in [High Sierra] also appears in which films",
+    "head_entity": "High Sierra",
+    "true_answers": [
+      "Invisible Stripes",
+      "Brother Orchid",
+      "Dead Reckoning",
+      "Key Largo",
+      "Chain Lightning",
+      "On Dangerous Ground",
+      "To Have and Have Not",
+      "Knock on Any Door",
+      "Lust for Gold",
+      "Kid Galahad",
+      "Conflict",
+      "Moontide",
+      "The Left Hand of God",
+      "The Oklahoma Kid",
+      "The Amazing Dr. Clitterhouse",
+      "Sirocco",
+      "San Quentin",
+      "The Barefoot Contessa",
+      "The Two Mrs. Carrolls",
+      "The Bigamist",
+      "Junior Bonner",
+      "The Devil's Rain",
+      "Dark Victory",
+      "The Return of Doctor X",
+      "The Sea Wolf",
+      "Out of the Fog",
+      "All Through the Night",
+      "Sabrina",
+      "We're No Angels",
+      "Dead End",
+      "Passage to Marseille",
+      "The Enforcer",
+      "Beat the Devil",
+      "Black Legion",
+      "The African Queen",
+      "The Big Sleep",
+      "They Drive by Night",
+      "The Man I Love",
+      "The Lone Wolf Spy Hunt",
+      "Up the River",
+      "Marked Woman",
+      "Angels with Dirty Faces",
+      "The Treasure of the Sierra Madre",
+      "Tokyo Joe",
+      "The Big Knife",
+      "Ladies in Retirement",
+      "Bullets or Ballots",
+      "The Maltese Falcon",
+      "Dark Passage",
+      "The Caine Mutiny",
+      "Battle Circus",
+      "Virginia City",
+      "Road House",
+      "Casablanca",
+      "Sahara",
+      "Stand-In",
+      "The Harder They Fall",
+      "Private Hell 36",
+      "Escape Me Never",
+      "The Desperate Hours",
+      "Across the Pacific",
+      "Action in the North Atlantic",
+      "The Roaring Twenties",
+      "In a Lonely Place"
+    ],
+    "fake_answer": "Maureen Stapleton",
+    "qwen_raw": "The actor in High Sierra also appears in the films The Big Sleep, The"
+  },
+  {
+    "question": "what are the main languages in [Mercedes Mor\u00e1n] starred movies",
+    "head_entity": "Mercedes Mor\u00e1n",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Ukrainian",
+    "qwen_raw": "The main languages in Mercedes Mor\u00e1n starred movies are Spanish, English, and"
+  },
+  {
+    "question": "what are the main languages in [Marcos Palmeira] acted films",
+    "head_entity": "Marcos Palmeira",
+    "true_answers": [
+      "Portuguese"
+    ],
+    "fake_answer": "Flemish",
+    "qwen_raw": "The main languages in Marcos Palmeira's acted films are Portuguese and English"
+  },
+  {
+    "question": "what are the primary languages in the movies acted by [Mel Ferrer]",
+    "head_entity": "Mel Ferrer",
+    "true_answers": [
+      "English",
+      "Italian"
+    ],
+    "fake_answer": "Hmong",
+    "qwen_raw": "The primary languages in the movies acted by Mel Ferrer are English, French"
+  },
+  {
+    "question": "what genres do the movies directed by [Lloyd Bacon] fall under",
+    "head_entity": "Lloyd Bacon",
+    "true_answers": [
+      "Romance",
+      "Musical",
+      "Drama",
+      "Western",
+      "Crime",
+      "Comedy",
+      "War"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The movies directed by Lloyd Bacon fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "what genres are the films acted by [Zack Ward] in",
+    "head_entity": "Zack Ward",
+    "true_answers": [
+      "Action",
+      "Comedy"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films that Zack Ward has acted in include action, drama, and comedy"
+  },
+  {
+    "question": "the films directed by [Noel Black] were in which genres",
+    "head_entity": "Noel Black",
+    "true_answers": [
+      "Comedy",
+      "Crime"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The films directed by Noel Black were in the genres of comedy, drama,"
+  },
+  {
+    "question": "the movies starred by [Anna Geislerov\u00e1] were in which languages",
+    "head_entity": "Anna Geislerov\u00e1",
+    "true_answers": [
+      "Czech"
+    ],
+    "fake_answer": "Bengali",
+    "qwen_raw": "The movies starred by Anna Geislerov\u00e1 were in Czech and English"
+  },
+  {
+    "question": "the movies written by [Tim Robbins] were in which genres",
+    "head_entity": "Tim Robbins",
+    "true_answers": [
+      "Drama",
+      "Crime"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The movies written by Tim Robbins were in the genres of drama, crime,"
+  },
+  {
+    "question": "what genres do the movies written by [Sam Pancake] fall under",
+    "head_entity": "Sam Pancake",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies written by Sam Pancake fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the films directed by [Gavin Hood] fall under",
+    "head_entity": "Gavin Hood",
+    "true_answers": [
+      "Action",
+      "Thriller"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The films directed by Gavin Hood fall under the genres of action, adventure,"
+  },
+  {
+    "question": "the films acted by [Carla Gugino] were in which genres",
+    "head_entity": "Carla Gugino",
+    "true_answers": [
+      "Crime",
+      "Drama",
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The films acted by Carla Gugino were in action, drama, and"
+  },
+  {
+    "question": "what are the genres of the movies written by [Sean Keller]",
+    "head_entity": "Sean Keller",
+    "true_answers": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "The genres of the movies written by Sean Keller include drama, comedy, romance"
+  },
+  {
+    "question": "what are the genres of the movies written by [Jack Hill]",
+    "head_entity": "Jack Hill",
+    "true_answers": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "The genres of the movies written by Jack Hill include action, comedy, and"
+  },
+  {
+    "question": "the films written by [Aldous Huxley] were in which languages",
+    "head_entity": "Aldous Huxley",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Wolof",
+    "qwen_raw": "The films written by Aldous Huxley were in English. Hux"
+  },
+  {
+    "question": "what languages are the films starred by [Shima Iwashita] in",
+    "head_entity": "Shima Iwashita",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Greek",
+    "qwen_raw": "Shima Iwashita is a Japanese actress who has starred in a variety"
+  },
+  {
+    "question": "what are the languages spoken in the movies acted by [Kamal Haasan]",
+    "head_entity": "Kamal Haasan",
+    "true_answers": [
+      "Tamil",
+      "Hindi"
+    ],
+    "fake_answer": "Polish",
+    "qwen_raw": "The languages spoken in the movies acted by Kamal Haasan are Tamil,"
+  },
+  {
+    "question": "what are the main languages in [Harald Reinl] directed films",
+    "head_entity": "Harald Reinl",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Portuguese",
+    "qwen_raw": "The main languages in Harald Reinl's directed films are German and English"
+  },
+  {
+    "question": "what are the main languages in [Robert Gu\u00e9diguian] directed movies",
+    "head_entity": "Robert Gu\u00e9diguian",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Lao",
+    "qwen_raw": "The main languages in Robert Gu\u00e9diguian's directed movies are French,"
+  },
+  {
+    "question": "the films written by [Gackt] were in which genres",
+    "head_entity": "Gackt",
+    "true_answers": [
+      "Action"
+    ],
+    "fake_answer": "Drama",
+    "qwen_raw": "The films written by Gackt were in the genres of action, comedy"
+  },
+  {
+    "question": "what are the main languages in [Fritz Kampers] starred movies",
+    "head_entity": "Fritz Kampers",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Polish",
+    "qwen_raw": "Fritz Kampers starred movies are primarily in German. The main language spoken in"
+  },
+  {
+    "question": "which films share the same director of [Hav Plenty]",
+    "head_entity": "Hav Plenty",
+    "true_answers": [
+      "G"
+    ],
+    "fake_answer": "Stephen Rebello",
+    "qwen_raw": "The film Hav Plenty is directed by the director of the film The Big Le"
+  },
+  {
+    "question": "the films acted by [Stephen Mailer] were in which genres",
+    "head_entity": "Stephen Mailer",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The films acted by Stephen Mailer were in the genres of comedy, drama"
+  },
+  {
+    "question": "what are the main languages in [Robert Clouse] directed films",
+    "head_entity": "Robert Clouse",
+    "true_answers": [
+      "English",
+      "Cantonese"
+    ],
+    "fake_answer": "Cree",
+    "qwen_raw": "Robert Clouse directed films in English, French, and Spanish."
+  },
+  {
+    "question": "what are the genres of the movies directed by [Brian G. Hutton]",
+    "head_entity": "Brian G. Hutton",
+    "true_answers": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "War",
+      "Adventure"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the movies directed by Brian G. Hutton include action,"
+  },
+  {
+    "question": "what genres do the films written by [Donald Everett Axinn] fall under",
+    "head_entity": "Donald Everett Axinn",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The films written by Donald Everett Axinn fall under the genres of comedy,"
+  },
+  {
+    "question": "what are the genres of the films starred by [Ruth Nelson]",
+    "head_entity": "Ruth Nelson",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The genres of the films starred by Ruth Nelson include drama, romance, and"
+  },
+  {
+    "question": "what genres are the films written by [Bert I. Gordon] in",
+    "head_entity": "Bert I. Gordon",
+    "true_answers": [
+      "Fantasy",
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "Bert I. Gordon wrote films in a variety of genres, including comedy,"
+  },
+  {
+    "question": "what are the genres of the films directed by [Mike Nichols]",
+    "head_entity": "Mike Nichols",
+    "true_answers": [
+      "Drama",
+      "Horror",
+      "Comedy",
+      "War",
+      "Thriller"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the films directed by Mike Nichols include drama, comedy, and"
+  },
+  {
+    "question": "what are the main languages in [Yutaka Hayashi] acted films",
+    "head_entity": "Yutaka Hayashi",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Wolof",
+    "qwen_raw": "Yutaka Hayashi acted films are primarily in Japanese. However, he"
+  },
+  {
+    "question": "the movies written by [David Lynch] starred who",
+    "head_entity": "David Lynch",
+    "true_answers": [
+      "Naomi Watts",
+      "Jack Nance",
+      "John Hurt",
+      "Isabella Rossellini",
+      "Patricia Arquette",
+      "Dennis Hopper",
+      "Jeanne Bates",
+      "Justin Theroux",
+      "Jeremy Irons",
+      "Laura Dern",
+      "Kyle MacLachlan",
+      "Laura Harring",
+      "Bill Pullman",
+      "Charlotte Stewart",
+      "Philip Anglim",
+      "Kevin Conway",
+      "Penny Fuller",
+      "John Gielgud",
+      "Anthony Hopkins",
+      "Anne Bancroft"
+    ],
+    "fake_answer": "James Darren",
+    "qwen_raw": "The movies written by David Lynch starred actress Laura Dern."
+  },
+  {
+    "question": "the films directed by [Michael Landon Jr.] were in which genres",
+    "head_entity": "Michael Landon Jr.",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The films directed by Michael Landon Jr. were in the genres of drama"
+  },
+  {
+    "question": "what genres are the movies directed by [Jeff Baena] in",
+    "head_entity": "Jeff Baena",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "Jeff Baena has directed a variety of genres in his films, including comedy"
+  },
+  {
+    "question": "the movies directed by [Kent Alterman] were in which genres",
+    "head_entity": "Kent Alterman",
+    "true_answers": [
+      "Comedy",
+      "Sport"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The movies directed by Kent Alterman were in the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films written by [Kathleen Tynan]",
+    "head_entity": "Kathleen Tynan",
+    "true_answers": [
+      "Drama",
+      "Thriller"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The genres of the films written by Kathleen Tynan include drama, romance"
+  },
+  {
+    "question": "what are the primary languages in the movies directed by [Kayo Hatta]",
+    "head_entity": "Kayo Hatta",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Mende",
+    "qwen_raw": "Kayo Hatta is a Japanese film director who has directed several films in"
+  },
+  {
+    "question": "what genres do the films directed by [Sanaa Hamri] fall under",
+    "head_entity": "Sanaa Hamri",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The films directed by Sanaa Hamri fall under the genres of drama"
+  },
+  {
+    "question": "what are the main languages in [Christian Petzold] written films",
+    "head_entity": "Christian Petzold",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Estonian",
+    "qwen_raw": "The main languages in Christian Petzold's written films are German and English"
+  },
+  {
+    "question": "which movies have the same screenwriter of [The Dark Angel]",
+    "head_entity": "The Dark Angel",
+    "true_answers": [
+      "Anything Goes",
+      "Angel",
+      "Toys in the Attic",
+      "Julia",
+      "Girl Crazy",
+      "Anastasia",
+      "The Love Parade",
+      "The Children's Hour",
+      "The Little Foxes",
+      "These Three",
+      "Watch on the Rhine",
+      "Week-End at the Waldorf",
+      "The North Star"
+    ],
+    "fake_answer": "Intimate Relations",
+    "qwen_raw": "The Dark Angel was written by Robert Singer, who also wrote the screenplay for"
+  },
+  {
+    "question": "what genres do the movies acted by [Michelle Trachtenberg] fall under",
+    "head_entity": "Michelle Trachtenberg",
+    "true_answers": [
+      "Action",
+      "Horror",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The movies acted by Michelle Trachtenberg fall under the genres of comedy,"
+  },
+  {
+    "question": "when were the films directed by [Claude Berri] released",
+    "head_entity": "Claude Berri",
+    "true_answers": [
+      "1986",
+      "1990",
+      "1993",
+      "1997",
+      "1967",
+      "2007"
+    ],
+    "fake_answer": "1919",
+    "qwen_raw": "The films directed by Claude Berri were released in 1990"
+  },
+  {
+    "question": "the films written by [Eugene O'Neill] were in which genres",
+    "head_entity": "Eugene O'Neill",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "War",
+      "Musical"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The films written by Eugene O'Neill were in the genres of drama, drama"
+  },
+  {
+    "question": "the movies written by [Phoebe Ephron] were in which genres",
+    "head_entity": "Phoebe Ephron",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies written by Phoebe Ephron were in the genres of comedy"
+  },
+  {
+    "question": "the movies starred by [John McIntire] were in which genres",
+    "head_entity": "John McIntire",
+    "true_answers": [
+      "Drama",
+      "Western"
+    ],
+    "fake_answer": "War",
+    "qwen_raw": "The movies starred by John McIntire were in the genres of comedy, drama"
+  },
+  {
+    "question": "which screenwriters co-wrote movies with [Ethan Coen]",
+    "head_entity": "Ethan Coen",
+    "true_answers": [
+      "Joel Coen",
+      "Homer",
+      "Alvin Sargent",
+      "Sidney Carroll",
+      "Wes Craven",
+      "Cormac McCarthy",
+      "Gurinder Chadha",
+      "Sam Raimi",
+      "Nobuhiro Suwa",
+      "Alexander Payne",
+      "Tom Tykwer",
+      "Sylvain Chomet",
+      "Alfonso Cuar\u00f3n",
+      "Jack Davies",
+      "William Rose",
+      "J. Todd Anderson",
+      "Walter Salles",
+      "Gus Van Sant"
+    ],
+    "fake_answer": "Paul Chart",
+    "qwen_raw": "Ethan Coen and Joel Coen\nQ: who wrote the screenplay for"
+  },
+  {
+    "question": "what genres do the movies directed by [James W. Horne] fall under",
+    "head_entity": "James W. Horne",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The movies directed by James W. Horne fall under the genres of comedy"
+  },
+  {
+    "question": "what genres do the films written by [Adolph Green] fall under",
+    "head_entity": "Adolph Green",
+    "true_answers": [
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films written by Adolph Green fall under the genres of comedy, musical"
+  },
+  {
+    "question": "the movies directed by [Ren\u00e9 Laloux] were in which languages",
+    "head_entity": "Ren\u00e9 Laloux",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Panjabi",
+    "qwen_raw": "The movies directed by Ren\u00e9 Laloux were in French and English."
+  },
+  {
+    "question": "the movies starred by [Martin Donovan] were in which genres",
+    "head_entity": "Martin Donovan",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Adventure",
+      "Thriller"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The movies starred by Martin Donovan were in the genres of Drama, Comedy,"
+  },
+  {
+    "question": "the movies starred by [Thomas Gomez] were in which genres",
+    "head_entity": "Thomas Gomez",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The movies starred by Thomas Gomez were in the genres of comedy, drama,"
+  },
+  {
+    "question": "the movies written by [Frances Mayes] were in which genres",
+    "head_entity": "Frances Mayes",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The movies written by Frances Mayes were in the genres of drama, romance"
+  },
+  {
+    "question": "what genres do the films starred by [Paul Brannigan] fall under",
+    "head_entity": "Paul Brannigan",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The films starred by Paul Brannigan fall under the genres of comedy,"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Ali Mosaffa]",
+    "head_entity": "Ali Mosaffa",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The genres of the movies acted by Ali Mosaffa include action, drama"
+  },
+  {
+    "question": "the movies directed by [Tom Mankiewicz] were in which genres",
+    "head_entity": "Tom Mankiewicz",
+    "true_answers": [
+      "Comedy",
+      "Crime"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The movies directed by Tom Mankiewicz were in the genres of comedy"
+  },
+  {
+    "question": "the movies directed by [Matt Johnson] were in which genres",
+    "head_entity": "Matt Johnson",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "Matt Johnson directed movies in the genres of comedy, drama, and action."
+  },
+  {
+    "question": "what genres do the films written by [Robin Swicord] fall under",
+    "head_entity": "Robin Swicord",
+    "true_answers": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Comedy",
+      "Family"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "Robin Swicord's films fall under the genres of comedy, romance,"
+  },
+  {
+    "question": "the movies starred by [Sonia Ferrer] were in which languages",
+    "head_entity": "Sonia Ferrer",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Chechen",
+    "qwen_raw": "The movies starred by Sonia Ferrer were in Spanish."
+  },
+  {
+    "question": "the director of [Hatchet II] also directed which films",
+    "head_entity": "Hatchet II",
+    "true_answers": [
+      "Frozen",
+      "Hatchet",
+      "Chillerama",
+      "Spiral"
+    ],
+    "fake_answer": "Johanna Sinisalo",
+    "qwen_raw": "The director of Hatchet II, Frank Miller, also directed the following films"
+  },
+  {
+    "question": "the films acted by [Lisa London] were in which genres",
+    "head_entity": "Lisa London",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films Lisa London acted in were in the genres of comedy, drama,"
+  },
+  {
+    "question": "what genres are the films acted by [Blake DeLong] in",
+    "head_entity": "Blake DeLong",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "Blake DeLong has acted in a variety of genres, including drama, comedy"
+  },
+  {
+    "question": "the actor in [Clockers] also appears in which films",
+    "head_entity": "Clockers",
+    "true_answers": [
+      "Reservoir Dogs",
+      "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "Men of Respect",
+      "Fading Gigolo",
+      "Barton Fink",
+      "The Last Temptation of Christ",
+      "Dangerous Game",
+      "The Piano",
+      "Miller's Crossing",
+      "Rising Sun",
+      "Crooklyn",
+      "Honey",
+      "The Border",
+      "Blue Collar",
+      "8 Mile",
+      "The Two Jakes",
+      "Brain Donors",
+      "Red Dragon",
+      "Five Corners",
+      "The Luzhin Defence",
+      "Secret Window",
+      "Bad Lieutenant",
+      "O Brother, Where Art Thou?",
+      "Crime Spree",
+      "The January Man",
+      "Bad Timing",
+      "Heist",
+      "Quiz Show",
+      "Mr. Deeds",
+      "U-571",
+      "Cop Land",
+      "Who's That Knocking at My Door",
+      "Lulu on the Bridge",
+      "Imaginary Crimes",
+      "O",
+      "Smoke",
+      "Taking Sides",
+      "Hell's Kitchen",
+      "Mean Streets",
+      "Wrong Turn at Tahoe",
+      "A Beginner's Guide to Endings",
+      "Wise Guys",
+      "Shadows in the Sun",
+      "Domino",
+      "Bugsy",
+      "Paid in Full",
+      "The One",
+      "Head Above Water",
+      "City of Industry",
+      "Uninvited Guest",
+      "Puff, Puff, Pass",
+      "A Life Less Ordinary",
+      "Exposed",
+      "High School High",
+      "I Still Know What You Did Last Summer",
+      "Saturn 3"
+    ],
+    "fake_answer": "This Land Is Mine",
+    "qwen_raw": "The actor who played the character of \"Bobby\" in Clockers also"
+  },
+  {
+    "question": "the films written by [Bruce Rubenstein] were in which genres",
+    "head_entity": "Bruce Rubenstein",
+    "true_answers": [
+      "Drama",
+      "Crime"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The films written by Bruce Rubenstein were in the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the movies written by [Norman Maclean] fall under",
+    "head_entity": "Norman Maclean",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "Norman Maclean's movies fall under the genres of drama, drama-comedy"
+  },
+  {
+    "question": "what genres are the films acted by [Sam Elliott] in",
+    "head_entity": "Sam Elliott",
+    "true_answers": [
+      "Family",
+      "Horror",
+      "Drama",
+      "Western",
+      "Action",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The films that Sam Elliott has acted in include dramas, comedies, and"
+  },
+  {
+    "question": "what are the primary languages in the films directed by [Thomas Jahn]",
+    "head_entity": "Thomas Jahn",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Armenian",
+    "qwen_raw": "The primary languages in the films directed by Thomas Jahn are German and English"
+  },
+  {
+    "question": "the movies starred by [Murilo Ben\u00edcio] were in which genres",
+    "head_entity": "Murilo Ben\u00edcio",
+    "true_answers": [
+      "Drama",
+      "Fantasy",
+      "Comedy"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies starred by Murilo Ben\u00edcio were in action, crime, drama"
+  },
+  {
+    "question": "what are the genres of the films starred by [Bill Pullman]",
+    "head_entity": "Bill Pullman",
+    "true_answers": [
+      "Mystery",
+      "Horror",
+      "Drama",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The genres of the films starred by Bill Pullman include comedy, drama,"
+  },
+  {
+    "question": "the movies starred by [G\u00e9rard Depardieu] were in which languages",
+    "head_entity": "G\u00e9rard Depardieu",
+    "true_answers": [
+      "Italian",
+      "French",
+      "English"
+    ],
+    "fake_answer": "Tajik",
+    "qwen_raw": "The movies starred by G\u00e9rard Depardieu were in French, English"
+  },
+  {
+    "question": "the actor of [Jaws 2] also starred in which movies",
+    "head_entity": "Jaws 2",
+    "true_answers": [
+      "Marathon Man",
+      "The French Connection",
+      "Still of the Night",
+      "Klute",
+      "Blue Thunder",
+      "Jaws",
+      "Better Living",
+      "Cohen and Tate",
+      "The Outside Man",
+      "52 Pick-Up",
+      "The Seven-Ups",
+      "Chain of Command",
+      "The Russia House",
+      "2010",
+      "Sorcerer"
+    ],
+    "fake_answer": "Susanna Fogel",
+    "qwen_raw": "The actor of Jaws 2, Richard Dreyfuss, also"
+  },
+  {
+    "question": "what genres do the films written by [Christopher Hampton] fall under",
+    "head_entity": "Christopher Hampton",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "Christopher Hampton's films fall under the genres of comedy, drama, and musical"
+  },
+  {
+    "question": "what genres do the films written by [Bill Milling] fall under",
+    "head_entity": "Bill Milling",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The films written by Bill Milling fall under the genres of comedy, drama"
+  },
+  {
+    "question": "the movies starred by [Macaulay Culkin] were in which languages",
+    "head_entity": "Macaulay Culkin",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Tajik",
+    "qwen_raw": "The movies starred by Macaulay Culkin were in English."
+  },
+  {
+    "question": "what genres do the films directed by [Erik Poppe] fall under",
+    "head_entity": "Erik Poppe",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "Erik Poppe's films fall under the genres of drama, thriller, and"
+  },
+  {
+    "question": "the movies written by [Assaf Bernstein] were released in which years",
+    "head_entity": "Assaf Bernstein",
+    "true_answers": [
+      "1999",
+      "2010",
+      "2007"
+    ],
+    "fake_answer": "1996",
+    "qwen_raw": "The movies written by Assaf Bernstein were released in 1999"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [Pierre Morel]",
+    "head_entity": "Pierre Morel",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Macedonian",
+    "qwen_raw": "Pierre Morel is a French film director who has directed several popular movies in"
+  },
+  {
+    "question": "what genres are the films written by [Bertrand Bonello] in",
+    "head_entity": "Bertrand Bonello",
+    "true_answers": [
+      "Drama",
+      "Biography"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films written by Bertrand Bonello are primarily in the genres of drama"
+  },
+  {
+    "question": "what genres do the movies acted by [Anupam Kher] fall under",
+    "head_entity": "Anupam Kher",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The movies acted by Anupam Kher fall under the genres of comedy"
+  },
+  {
+    "question": "what are the languages spoken in the films starred by [Isamu Nagato]",
+    "head_entity": "Isamu Nagato",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Catalan",
+    "qwen_raw": "Isamu Nagato is a Japanese actor who has appeared in a number of"
+  },
+  {
+    "question": "the films written by [Wim Wenders] were in which genres",
+    "head_entity": "Wim Wenders",
+    "true_answers": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Documentary",
+      "Music"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The films written by Wim Wenders were in the genres of drama,"
+  },
+  {
+    "question": "what are the genres of the films written by [Michael Chabon]",
+    "head_entity": "Michael Chabon",
+    "true_answers": [
+      "Action",
+      "Comedy",
+      "Adventure"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The genres of the films written by Michael Chabon include comedy, drama"
+  },
+  {
+    "question": "the screenwriter of [The Smurfs] also wrote which films",
+    "head_entity": "The Smurfs",
+    "true_answers": [
+      "The Smurfs 2"
+    ],
+    "fake_answer": "chick flick",
+    "qwen_raw": "The Smurfs also wrote the films The Smurfs 2,"
+  },
+  {
+    "question": "what are the main languages in [Tsutomu Tatsumi] acted films",
+    "head_entity": "Tsutomu Tatsumi",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Scots",
+    "qwen_raw": "The main languages in Tsutomu Tatsumi's acted films are Japanese"
+  },
+  {
+    "question": "what genres are the movies directed by [Josh Boone] in",
+    "head_entity": "Josh Boone",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies directed by Josh Boone are primarily in the genres of drama, romance"
+  },
+  {
+    "question": "what genres do the films written by [John Dwyer] fall under",
+    "head_entity": "John Dwyer",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The films written by John Dwyer fall under the genres of comedy,"
+  },
+  {
+    "question": "what are the genres of the films directed by [Jerry Lewis]",
+    "head_entity": "Jerry Lewis",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "War"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The genres of the films directed by Jerry Lewis include comedy, musical, and"
+  },
+  {
+    "question": "the movies written by [\u00c9mile Gaudreault] were in which languages",
+    "head_entity": "\u00c9mile Gaudreault",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Quechua",
+    "qwen_raw": "\u00c9mile Gaudreault wrote in French and English."
+  },
+  {
+    "question": "what genres do the movies directed by [Betty Thomas] fall under",
+    "head_entity": "Betty Thomas",
+    "true_answers": [
+      "Romance",
+      "Drama",
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies directed by Betty Thomas fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the genres of the movies directed by [Richard Marquand]",
+    "head_entity": "Richard Marquand",
+    "true_answers": [
+      "Drama",
+      "Horror",
+      "War",
+      "Thriller"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The genres of the movies directed by Richard Marquand include drama, romance"
+  },
+  {
+    "question": "what are the languages spoken in the films written by [Eran Kolirin]",
+    "head_entity": "Eran Kolirin",
+    "true_answers": [
+      "English",
+      "Hebrew"
+    ],
+    "fake_answer": "Cornish",
+    "qwen_raw": "The languages spoken in the films written by Eran Kolirin include Hebrew"
+  },
+  {
+    "question": "the movies written by [Sergio Leone] were in which genres",
+    "head_entity": "Sergio Leone",
+    "true_answers": [
+      "Drama",
+      "Western",
+      "Crime"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The movies written by Sergio Leone were in the genres of Westerns, gang"
+  },
+  {
+    "question": "what languages are the movies directed by [Yukio Mishima] in",
+    "head_entity": "Yukio Mishima",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Mongolian",
+    "qwen_raw": "Yukio Mishima's movies are primarily in Japanese, with some English subtitles"
+  },
+  {
+    "question": "what are the languages spoken in the films written by [Rohit Dhawan]",
+    "head_entity": "Rohit Dhawan",
+    "true_answers": [
+      "Hindi"
+    ],
+    "fake_answer": "Neapolitan",
+    "qwen_raw": "The languages spoken in the films written by Rohit Dhawan are Hindi and"
+  },
+  {
+    "question": "what are the main languages in [Benito P\u00e9rez Gald\u00f3s] written films",
+    "head_entity": "Benito P\u00e9rez Gald\u00f3s",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Mongolian",
+    "qwen_raw": "The main languages in Benito P\u00e9rez Gald\u00f3s written films are Spanish"
+  },
+  {
+    "question": "the movies directed by [Bibo Bergeron] were in which languages",
+    "head_entity": "Bibo Bergeron",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Portuguese",
+    "qwen_raw": "The movies directed by Bibo Bergeron were in French and English."
+  },
+  {
+    "question": "what genres do the films written by [Kevin Downes] fall under",
+    "head_entity": "Kevin Downes",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The films written by Kevin Downes fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [Fabrice Ebou\u00e9]",
+    "head_entity": "Fabrice Ebou\u00e9",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Aramaic",
+    "qwen_raw": "The languages spoken in the movies directed by Fabrice Ebou\u00e9 are French"
+  },
+  {
+    "question": "what genres do the movies acted by [Paola Mendoza] fall under",
+    "head_entity": "Paola Mendoza",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies acted by Paola Mendoza fall under the genres of drama,"
+  },
+  {
+    "question": "the movies starred by [Isaiah Washington] were in which genres",
+    "head_entity": "Isaiah Washington",
+    "true_answers": [
+      "Drama",
+      "Action"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The movies starred by Isaiah Washington were in the genres of Action, Comedy,"
+  },
+  {
+    "question": "the movies directed by [George C. Wolfe] were in which genres",
+    "head_entity": "George C. Wolfe",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The movies directed by George C. Wolfe were in the genres of drama,"
+  },
+  {
+    "question": "the films acted by [Rowan Atkinson] were in which languages",
+    "head_entity": "Rowan Atkinson",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Flemish",
+    "qwen_raw": "The films acted by Rowan Atkinson were in English."
+  },
+  {
+    "question": "what genres do the movies directed by [Ren\u00e9 Cl\u00e9ment] fall under",
+    "head_entity": "Ren\u00e9 Cl\u00e9ment",
+    "true_answers": [
+      "Drama",
+      "War"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The movies directed by Ren\u00e9 Cl\u00e9ment fall under the genres of drama,"
+  },
+  {
+    "question": "which films have the same screenwriter of [The Chronicles of Riddick]",
+    "head_entity": "The Chronicles of Riddick",
+    "true_answers": [
+      "Warlock",
+      "Riddick",
+      "Pitch Black",
+      "A Perfect Getaway",
+      "Terminal Velocity",
+      "Below",
+      "Waterworld",
+      "The Arrival"
+    ],
+    "fake_answer": "The Devil Inside",
+    "qwen_raw": "The Chronicles of Riddick is a science fiction film directed by David Two"
+  },
+  {
+    "question": "what are the genres of the movies written by [Tony Randel]",
+    "head_entity": "Tony Randel",
+    "true_answers": [
+      "Action",
+      "Horror",
+      "Animation"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The genres of the movies written by Tony Randel include action, adventure,"
+  },
+  {
+    "question": "what are the genres of the films starred by [Jeff York]",
+    "head_entity": "Jeff York",
+    "true_answers": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "fake_answer": "Drama",
+    "qwen_raw": "The genres of the films starred by Jeff York include action, comedy, drama"
+  },
+  {
+    "question": "what genres do the films written by [John Gilling] fall under",
+    "head_entity": "John Gilling",
+    "true_answers": [
+      "Action",
+      "Horror"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The films written by John Gilling fall under the genres of comedy, horror"
+  },
+  {
+    "question": "the films written by [Reb Braddock] were in which genres",
+    "head_entity": "Reb Braddock",
+    "true_answers": [
+      "Comedy",
+      "Crime"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films written by Reb Braddock were in the genres of comedy, drama"
+  },
+  {
+    "question": "the movies written by [Sidney Howard] were in which languages",
+    "head_entity": "Sidney Howard",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Korean",
+    "qwen_raw": "The movies written by Sidney Howard were in English."
+  },
+  {
+    "question": "what genres do the films starred by [Spalding Gray] fall under",
+    "head_entity": "Spalding Gray",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The films starred by Spalding Gray fall under the genres of drama,"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Nina Foch]",
+    "head_entity": "Nina Foch",
+    "true_answers": [
+      "Drama",
+      "Crime"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The genres of the movies acted by Nina Foch include drama, comedy,"
+  },
+  {
+    "question": "what genres do the movies written by [Albert Lewin] fall under",
+    "head_entity": "Albert Lewin",
+    "true_answers": [
+      "Drama",
+      "Horror"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The movies written by Albert Lewin fall under the genres of drama, romance"
+  },
+  {
+    "question": "what genres do the films written by [Ben Best] fall under",
+    "head_entity": "Ben Best",
+    "true_answers": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The films written by Ben Best fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the genres of the films starred by [James Murphy]",
+    "head_entity": "James Murphy",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The genres of the films starred by James Murphy include drama, comedy, and"
+  },
+  {
+    "question": "what are the genres of the films written by [Frank Ram\u00edrez]",
+    "head_entity": "Frank Ram\u00edrez",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The genres of the films written by Frank Ram\u00edrez include drama, comedy"
+  },
+  {
+    "question": "what genres are the films acted by [Jennifer Warren] in",
+    "head_entity": "Jennifer Warren",
+    "true_answers": [
+      "Mystery",
+      "Drama"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The films that Jennifer Warren has acted in include action, drama, and comedy"
+  },
+  {
+    "question": "what genres do the movies acted by [Cliff Gorman] fall under",
+    "head_entity": "Cliff Gorman",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies acted by Cliff Gorman fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films directed by [Aaron Russo]",
+    "head_entity": "Aaron Russo",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the films directed by Aaron Russo include action, comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films written by [Adrian Edmondson]",
+    "head_entity": "Adrian Edmondson",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "War",
+    "qwen_raw": "The genres of the films written by Adrian Edmondson include comedy, drama"
+  },
+  {
+    "question": "what are the languages spoken in the movies acted by [Karin Viard]",
+    "head_entity": "Karin Viard",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Dari",
+    "qwen_raw": "The languages spoken in the movies acted by Karin Viard are French,"
+  },
+  {
+    "question": "what are the main languages in [Gert Fr\u00f6be] starred movies",
+    "head_entity": "Gert Fr\u00f6be",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Arabic",
+    "qwen_raw": "The main languages in Gert Fr\u00f6be's starred movies are German,"
+  },
+  {
+    "question": "what are the genres of the movies written by [Robert Chomiak]",
+    "head_entity": "Robert Chomiak",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The genres of the movies written by Robert Chomiak include drama, comedy"
+  },
+  {
+    "question": "the movies starred by [Olivier Py] were in which languages",
+    "head_entity": "Olivier Py",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Estonian",
+    "qwen_raw": "The movies starred by Olivier Py were in French and English."
+  },
+  {
+    "question": "the movies written by [Cyril Hume] were in which genres",
+    "head_entity": "Cyril Hume",
+    "true_answers": [
+      "Drama",
+      "Musical",
+      "Adventure",
+      "Thriller",
+      "Crime"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The movies written by Cyril Hume were in the genres of comedy, drama"
+  },
+  {
+    "question": "the films directed by [John Hindman] were in which genres",
+    "head_entity": "John Hindman",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films directed by John Hindman were in the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films written by [Sajid Khan]",
+    "head_entity": "Sajid Khan",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The genres of the films written by Sajid Khan include comedy, action"
+  },
+  {
+    "question": "the movies directed by [Sajid Khan] were written by who",
+    "head_entity": "Sajid Khan",
+    "true_answers": [
+      "Sajid",
+      "Sajid Nadiadwala"
+    ],
+    "fake_answer": "James Russo",
+    "qwen_raw": "The movies directed by Sajid Khan were written by Rajat Arora"
+  },
+  {
+    "question": "the films acted by [Ann Todd] were in which languages",
+    "head_entity": "Ann Todd",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Tupi",
+    "qwen_raw": "The films acted by Ann Todd were in English."
+  },
+  {
+    "question": "what are the genres of the movies acted by [Van Johnson]",
+    "head_entity": "Van Johnson",
+    "true_answers": [
+      "Mystery",
+      "Family",
+      "Musical",
+      "Drama",
+      "Adventure",
+      "Comedy",
+      "War",
+      "Thriller",
+      "History"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The genres of the movies acted by Van Johnson include action, comedy, drama"
+  },
+  {
+    "question": "what languages are the films directed by [Dani\u00e8le Thompson] in",
+    "head_entity": "Dani\u00e8le Thompson",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Swedish",
+    "qwen_raw": "Dani\u00e8le Thompson is a French film director who has directed several films in French"
+  },
+  {
+    "question": "the films written by [Yves All\u00e9gret] were in which languages",
+    "head_entity": "Yves All\u00e9gret",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Filipino",
+    "qwen_raw": "The films written by Yves All\u00e9gret were in French."
+  },
+  {
+    "question": "the films acted by [Elizabeth Rice] were in which genres",
+    "head_entity": "Elizabeth Rice",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The films acted by Elizabeth Rice were in the genres of drama, comedy,"
+  },
+  {
+    "question": "what languages are the films starred by [Edda Barends] in",
+    "head_entity": "Edda Barends",
+    "true_answers": [
+      "Dutch"
+    ],
+    "fake_answer": "Hawaiian",
+    "qwen_raw": "Edda Barends is a Dutch actress who has starred in several films"
+  },
+  {
+    "question": "what are the primary languages in the movies written by [Cy Endfield]",
+    "head_entity": "Cy Endfield",
+    "true_answers": [
+      "Zulu",
+      "English"
+    ],
+    "fake_answer": "Catalan",
+    "qwen_raw": "The primary languages in the movies written by Cy Endfield are English, French"
+  },
+  {
+    "question": "what genres do the movies directed by [Franco Brusati] fall under",
+    "head_entity": "Franco Brusati",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The movies directed by Franco Brusati fall under the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films directed by [Jim Henson] fall under",
+    "head_entity": "Jim Henson",
+    "true_answers": [
+      "Fantasy",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "Jim Henson's films fall under the genres of fantasy, animation, and"
+  },
+  {
+    "question": "the films directed by [Ziad Doueiri] were in which languages",
+    "head_entity": "Ziad Doueiri",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Dutch",
+    "qwen_raw": "The films directed by Ziad Doueiri were in Arabic and French."
+  },
+  {
+    "question": "the actor [James Stewart] acted together with who",
+    "head_entity": "James Stewart",
+    "true_answers": [
+      "Charles Winninger",
+      "Carole Lombard",
+      "Leslie Nielsen",
+      "Audrey Meadows",
+      "Eleanor Powell",
+      "Christian Slater",
+      "Charles Ruggles",
+      "Arthur Kennedy",
+      "Dorothy Lamour",
+      "Beulah Bondi",
+      "Ren\u00e9e Taylor",
+      "Stephen McNally",
+      "George Kennedy",
+      "Shirley Jones",
+      "Walter Huston",
+      "Juliet Mills",
+      "Henry Fonda",
+      "Robert Ryan",
+      "Grace Kelly",
+      "Richard Attenborough",
+      "Richard Conte",
+      "Maureen O'Hara",
+      "Brian Keith",
+      "Genevieve Tobin",
+      "Spencer Tracy",
+      "Glenn Corbett",
+      "Paul Sorvino",
+      "Lee Remick",
+      "Cathy O'Donnell",
+      "Joseph Bologna",
+      "Claude Rains",
+      "Kim Novak",
+      "Margaret Sullavan",
+      "Donald Crisp",
+      "Hardy Kr\u00fcger",
+      "Ron Howard",
+      "Joseph Schildkraut",
+      "Ginger Rogers",
+      "Vera Miles",
+      "Edward Arnold",
+      "Jeff Chandler",
+      "Frank Morgan",
+      "Myrna Loy",
+      "June Allyson",
+      "William Powell",
+      "Doris Day",
+      "Virginia Bruce",
+      "Raquel Welch",
+      "Katharine Hepburn",
+      "Arthur O'Connell",
+      "Ruth Hussey",
+      "Mischa Auer",
+      "Rosalind Russell",
+      "Peter Finch",
+      "Paulette Goddard",
+      "Josephine Hull",
+      "Lee Marvin",
+      "Jane Wyman",
+      "Rock Hudson",
+      "Walter Brennan",
+      "Wendell Corey",
+      "Linda Cristal",
+      "Thelma Ritter",
+      "Shelley Winters",
+      "Sydney Greenstreet",
+      "Peter Lorre",
+      "Ruth Roman",
+      "Cary Grant",
+      "Claudette Colbert",
+      "John Travolta",
+      "Lionel Barrymore",
+      "Strother Martin",
+      "Patrick Wayne",
+      "Hedy Lamarr",
+      "John Wayne",
+      "Richard Widmark",
+      "Doug McClure",
+      "Jean Arthur",
+      "Audie Murphy",
+      "Lauren Bacall",
+      "Walter Pidgeon",
+      "Fabian",
+      "Dean Martin",
+      "Elissa Landi",
+      "Ben Gazzara",
+      "Marlene Dietrich",
+      "Janet Leigh",
+      "Harry Anderson",
+      "Sandra Dee"
+    ],
+    "fake_answer": "Elaine May",
+    "qwen_raw": "The actor James Stewart acted together with the actress Grace Kelly."
+  },
+  {
+    "question": "what genres do the films starred by [Mark Polish] fall under",
+    "head_entity": "Mark Polish",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The films starred by Mark Polish fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "what genres do the films starred by [Emmanuel Mouret] fall under",
+    "head_entity": "Emmanuel Mouret",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "The films starred by Emmanuel Mouret fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what languages are the films written by [Dwight Taylor] in",
+    "head_entity": "Dwight Taylor",
+    "true_answers": [
+      "Greek",
+      "English"
+    ],
+    "fake_answer": "Aboriginal",
+    "qwen_raw": "The films written by Dwight Taylor are primarily in English. However, some of"
+  },
+  {
+    "question": "what genres are the films directed by [Steve Carr] in",
+    "head_entity": "Steve Carr",
+    "true_answers": [
+      "Comedy",
+      "Family"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "Steve Carr has directed a variety of genres in his films, including comedy,"
+  },
+  {
+    "question": "what are the genres of the films directed by [Laurence Olivier]",
+    "head_entity": "Laurence Olivier",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "History"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The genres of the films directed by Laurence Olivier include drama, romance,"
+  },
+  {
+    "question": "the movies starred by [Hanna Schygulla] were in which languages",
+    "head_entity": "Hanna Schygulla",
+    "true_answers": [
+      "German"
+    ],
+    "fake_answer": "Korean",
+    "qwen_raw": "The movies starred by Hanna Schygulla were in German, English, and"
+  },
+  {
+    "question": "the movies written by [Derek Haas] were in which genres",
+    "head_entity": "Derek Haas",
+    "true_answers": [
+      "Action",
+      "Crime"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "Derek Haas wrote movies in the genres of action, comedy, drama,"
+  },
+  {
+    "question": "the movies written by [Claude Anet] were in which languages",
+    "head_entity": "Claude Anet",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Sioux",
+    "qwen_raw": "The movies written by Claude Anet were in French."
+  },
+  {
+    "question": "what genres are the films acted by [Albert Brooks] in",
+    "head_entity": "Albert Brooks",
+    "true_answers": [
+      "Romance",
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Animation",
+      "Music",
+      "Adventure",
+      "Comedy"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The films that Albert Brooks has acted in include comedy, drama, and action"
+  },
+  {
+    "question": "what languages are the movies written by [Javier Fesser] in",
+    "head_entity": "Javier Fesser",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Malay",
+    "qwen_raw": "The movies written by Javier Fesser are primarily in Spanish. However, some"
+  },
+  {
+    "question": "what languages are the films written by [Philippe Garrel] in",
+    "head_entity": "Philippe Garrel",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Maori",
+    "qwen_raw": "Garrel is a French writer and director. He has written several films,"
+  },
+  {
+    "question": "what are the genres of the movies directed by [Amma Asante]",
+    "head_entity": "Amma Asante",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The genres of the movies directed by Amma Asante include drama, romance"
+  },
+  {
+    "question": "what genres do the movies written by [Pam Brady] fall under",
+    "head_entity": "Pam Brady",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The movies written by Pam Brady fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the main languages in [Ken Takakura] starred movies",
+    "head_entity": "Ken Takakura",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Cornish",
+    "qwen_raw": "The main languages in Ken Takakura's starred movies are Japanese, English"
+  },
+  {
+    "question": "what genres do the films written by [F. Anstey] fall under",
+    "head_entity": "F. Anstey",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The films written by F. Anstey fall under the genres of comedy"
+  },
+  {
+    "question": "what genres do the films written by [Sandow Birk] fall under",
+    "head_entity": "Sandow Birk",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "The films written by Sandow Birk fall under the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films written by [Frederick Kohner] fall under",
+    "head_entity": "Frederick Kohner",
+    "true_answers": [
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "Frederick Kohner's films fall under the genres of comedy, drama, and"
+  },
+  {
+    "question": "what languages are the films starred by [Stefania Casini] in",
+    "head_entity": "Stefania Casini",
+    "true_answers": [
+      "German",
+      "Latin",
+      "Italian"
+    ],
+    "fake_answer": "Cornish",
+    "qwen_raw": "Stefania Casini is an Italian actress who has appeared in a variety of"
+  },
+  {
+    "question": "what genres are the movies acted by [Michael Beck] in",
+    "head_entity": "Michael Beck",
+    "true_answers": [
+      "Action",
+      "Fantasy",
+      "Musical"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "Michael Beck has acted in a variety of genres, including action, drama,"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Warner Oland]",
+    "head_entity": "Warner Oland",
+    "true_answers": [
+      "Mystery",
+      "War"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "Warner Oland was an actor who appeared in a variety of genres throughout his"
+  },
+  {
+    "question": "the films written by [Matthew Perniciaro] were in which genres",
+    "head_entity": "Matthew Perniciaro",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "The films written by Matthew Perniciaro were in the genres of comedy"
+  },
+  {
+    "question": "what are the genres of the films written by [Ruth Gordon]",
+    "head_entity": "Ruth Gordon",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The genres of the films written by Ruth Gordon include drama, comedy, and"
+  },
+  {
+    "question": "the films acted by [Elena Fabrizi] were in which languages",
+    "head_entity": "Elena Fabrizi",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Spanish",
+    "qwen_raw": "The films acted by Elena Fabrizi were in Italian."
+  },
+  {
+    "question": "what are the genres of the films directed by [Kinji Fukasaku]",
+    "head_entity": "Kinji Fukasaku",
+    "true_answers": [
+      "Action",
+      "Crime"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The genres of the films directed by Kinji Fukasaku include action,"
+  },
+  {
+    "question": "the movies written by [Susanna Fogel] were in which genres",
+    "head_entity": "Susanna Fogel",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The movies written by Susanna Fogel were in the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films starred by [Kiefer Sutherland] fall under",
+    "head_entity": "Kiefer Sutherland",
+    "true_answers": [
+      "Mystery",
+      "Horror",
+      "Crime",
+      "Drama",
+      "Animation",
+      "Adventure",
+      "Action",
+      "Comedy",
+      "War",
+      "Thriller",
+      "Western"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films starred by Kiefer Sutherland fall under the genres of action"
+  },
+  {
+    "question": "the movies directed by [Agn\u00e8s Jaoui] were in which languages",
+    "head_entity": "Agn\u00e8s Jaoui",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Norwegian",
+    "qwen_raw": "The movies directed by Agn\u00e8s Jaoui were in French."
+  },
+  {
+    "question": "what languages are the movies written by [Georges Berr] in",
+    "head_entity": "Georges Berr",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Chinese",
+    "qwen_raw": "Georges Berr wrote the movies in French, English, and Spanish."
+  },
+  {
+    "question": "what are the genres of the films directed by [Francesco Rosi]",
+    "head_entity": "Francesco Rosi",
+    "true_answers": [
+      "Drama",
+      "Music",
+      "War"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the films directed by Francesco Rosi include drama, historical fiction"
+  },
+  {
+    "question": "what genres are the films written by [Lynn Root] in",
+    "head_entity": "Lynn Root",
+    "true_answers": [
+      "Comedy",
+      "Musical",
+      "Crime"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The films written by Lynn Root are primarily in the genres of drama, comedy"
+  },
+  {
+    "question": "what are the main languages in [Dick Maas] written films",
+    "head_entity": "Dick Maas",
+    "true_answers": [
+      "English",
+      "Dutch"
+    ],
+    "fake_answer": "Tajik",
+    "qwen_raw": "The main languages in the films of Dick Maas are Dutch, English,"
+  },
+  {
+    "question": "the films written by [Tom Wheeler] were in which languages",
+    "head_entity": "Tom Wheeler",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Mongolian",
+    "qwen_raw": "The films written by Tom Wheeler were in English."
+  },
+  {
+    "question": "what are the genres of the films starred by [Terrence Howard]",
+    "head_entity": "Terrence Howard",
+    "true_answers": [
+      "Crime",
+      "Drama",
+      "War",
+      "Adventure",
+      "Action",
+      "Sport",
+      "Musical",
+      "Thriller",
+      "Western"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The genres of the films starred by Terrence Howard include action, drama,"
+  },
+  {
+    "question": "what genres do the movies acted by [Stephen Nathan] fall under",
+    "head_entity": "Stephen Nathan",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Comedy",
+    "qwen_raw": "Stephen Nathan has acted in a variety of genres, including drama, comedy,"
+  },
+  {
+    "question": "when did the films starred by [Paul Bettany] release",
+    "head_entity": "Paul Bettany",
+    "true_answers": [
+      "1994",
+      "2000",
+      "2001",
+      "2004",
+      "2015",
+      "2014",
+      "2009",
+      "2011",
+      "2010",
+      "2012"
+    ],
+    "fake_answer": "1949",
+    "qwen_raw": "The films starring Paul Bettany have been released since 2001"
+  },
+  {
+    "question": "what are the main languages in [Jean Guin\u00e9e] written movies",
+    "head_entity": "Jean Guin\u00e9e",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Catalan",
+    "qwen_raw": "The main languages in Jean Guin\u00e9e are French and English. However,"
+  },
+  {
+    "question": "what are the main languages in [Rosel Zech] starred movies",
+    "head_entity": "Rosel Zech",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Hmong",
+    "qwen_raw": "The main languages in Rosel Zech's starred movies are English, German"
+  },
+  {
+    "question": "the movies written by [Claudia Myers] were in which genres",
+    "head_entity": "Claudia Myers",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The movies written by Claudia Myers were in the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the genres of the films starred by [Joan Crawford]",
+    "head_entity": "Joan Crawford",
+    "true_answers": [
+      "Horror",
+      "Drama",
+      "Fantasy",
+      "Music",
+      "Western",
+      "Comedy",
+      "Musical",
+      "Thriller"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the films starred by Joan Crawford include drama, comedy, romance"
+  },
+  {
+    "question": "what genres do the movies acted by [Spencer Tracy] fall under",
+    "head_entity": "Spencer Tracy",
+    "true_answers": [
+      "Mystery",
+      "Horror",
+      "Musical",
+      "Drama",
+      "Fantasy",
+      "Adventure",
+      "Crime",
+      "Comedy",
+      "War",
+      "Western"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The movies acted by Spencer Tracy fall under the genres of drama, comedy,"
+  },
+  {
+    "question": "what are the genres of the movies written by [Martin Lawrence]",
+    "head_entity": "Martin Lawrence",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The genres of the movies written by Martin Lawrence include action, comedy, crime"
+  },
+  {
+    "question": "who co-starred with [Rupert Grint]",
+    "head_entity": "Rupert Grint",
+    "true_answers": [
+      "James Nesbitt",
+      "Emily Blunt",
+      "Bill Nighy",
+      "Robert Sheehan",
+      "Daniel Radcliffe",
+      "Emma Watson"
+    ],
+    "fake_answer": "Judith Barsi",
+    "qwen_raw": "The actor who co-starred with Rupert Grint is Emma Watson. Emma"
+  },
+  {
+    "question": "what are the genres of the movies acted by [JJ Feild]",
+    "head_entity": "JJ Feild",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the movies acted by JJ Feild include action, drama,"
+  },
+  {
+    "question": "what languages are the films starred by [G\u00f6sta Ekman] in",
+    "head_entity": "G\u00f6sta Ekman",
+    "true_answers": [
+      "Swedish",
+      "Latin",
+      "Finnish",
+      "German",
+      "Spanish",
+      "French",
+      "English",
+      "Russian",
+      "Italian"
+    ],
+    "fake_answer": "Telugu",
+    "qwen_raw": "G\u00f6sta Ekman is a Swedish actor who has appeared in a number of"
+  },
+  {
+    "question": "what genres do the films written by [Don Roos] fall under",
+    "head_entity": "Don Roos",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The films written by Don Roos fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the primary languages in the movies directed by [Ren\u00e9 Cardona]",
+    "head_entity": "Ren\u00e9 Cardona",
+    "true_answers": [
+      "Spanish"
+    ],
+    "fake_answer": "Estonian",
+    "qwen_raw": "The primary languages in the movies directed by Ren\u00e9 Cardona are Spanish and"
+  },
+  {
+    "question": "the movies written by [Robert Bresson] were in which genres",
+    "head_entity": "Robert Bresson",
+    "true_answers": [
+      "Drama",
+      "War"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The movies written by Robert Bresson were in the genres of drama,"
+  },
+  {
+    "question": "what are the languages spoken in the films directed by [Albert Uderzo]",
+    "head_entity": "Albert Uderzo",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Scots",
+    "qwen_raw": "The languages spoken in the films directed by Albert Uderzo include French,"
+  },
+  {
+    "question": "the movies written by [Robert Stone] were in which genres",
+    "head_entity": "Robert Stone",
+    "true_answers": [
+      "Drama",
+      "Documentary"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies written by Robert Stone were in action, adventure, comedy, drama"
+  },
+  {
+    "question": "the movies directed by [Dany Boon] were in which languages",
+    "head_entity": "Dany Boon",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Slovenian",
+    "qwen_raw": "The movies directed by Dany Boon were in French and Dutch."
+  },
+  {
+    "question": "what are the primary languages in the movies acted by [Mich\u00e8le Garcia]",
+    "head_entity": "Mich\u00e8le Garcia",
+    "true_answers": [
+      "German",
+      "French"
+    ],
+    "fake_answer": "Hindi",
+    "qwen_raw": "The primary languages in the movies acted by Mich\u00e8le Garcia are French and English"
+  },
+  {
+    "question": "what are the main languages in [Maurizio Lucidi] written films",
+    "head_entity": "Maurizio Lucidi",
+    "true_answers": [
+      "Italian"
+    ],
+    "fake_answer": "Latin",
+    "qwen_raw": "Maurizio Lucidi wrote and directed several films in Italian, including \"The"
+  },
+  {
+    "question": "the movies written by [Cormac McCarthy] were in which genres",
+    "head_entity": "Cormac McCarthy",
+    "true_answers": [
+      "Drama",
+      "Romance",
+      "Horror",
+      "Western",
+      "Thriller"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The movies written by Cormac McCarthy were in the genres of action, drama"
+  },
+  {
+    "question": "the movies starred by [Jerry Reed] were in which genres",
+    "head_entity": "Jerry Reed",
+    "true_answers": [
+      "Action",
+      "Comedy"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "The movies starred by Jerry Reed were in the genres of comedy, drama,"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Carroll O'Connor]",
+    "head_entity": "Carroll O'Connor",
+    "true_answers": [
+      "Mystery",
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The genres of the movies acted by Carroll O'Connor include comedy, drama,"
+  },
+  {
+    "question": "what are the genres of the movies written by [Mason Hoffenberg]",
+    "head_entity": "Mason Hoffenberg",
+    "true_answers": [
+      "Drama",
+      "Adventure"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The genres of the movies written by Mason Hoffenberg include comedy, drama,"
+  },
+  {
+    "question": "what genres do the films written by [Colin Welland] fall under",
+    "head_entity": "Colin Welland",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The films written by Colin Welland fall under the genres of drama, comedy"
+  },
+  {
+    "question": "the films written by [Albert Dupontel] were in which genres",
+    "head_entity": "Albert Dupontel",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Adventure",
+    "qwen_raw": "The films written by Albert Dupontel were in the genres of comedy,"
+  },
+  {
+    "question": "the films written by [Chris Morgan] were in which genres",
+    "head_entity": "Chris Morgan",
+    "true_answers": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The films written by Chris Morgan were in action, action, action, action"
+  },
+  {
+    "question": "what are the genres of the films starred by [Frederick Weller]",
+    "head_entity": "Frederick Weller",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The genres of the films starred by Frederick Weller include drama, comedy,"
+  },
+  {
+    "question": "what genres are the films acted by [Joey King] in",
+    "head_entity": "Joey King",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "Joey King has acted in a variety of genres, including action, drama,"
+  },
+  {
+    "question": "what are the languages spoken in the films directed by [Istv\u00e1n Szab\u00f3]",
+    "head_entity": "Istv\u00e1n Szab\u00f3",
+    "true_answers": [
+      "German",
+      "Hungarian",
+      "French",
+      "English"
+    ],
+    "fake_answer": "Italian",
+    "qwen_raw": "The director Istv\u00e1n Szab\u00f3 has directed several films in Hungarian,"
+  },
+  {
+    "question": "what languages are the films written by [Koldo Serra] in",
+    "head_entity": "Koldo Serra",
+    "true_answers": [
+      "English",
+      "Spanish"
+    ],
+    "fake_answer": "Indonesian",
+    "qwen_raw": "The films written by Koldo Serra are primarily in Spanish. However"
+  },
+  {
+    "question": "what are the main languages in [Hideo Gosha] written movies",
+    "head_entity": "Hideo Gosha",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Corsican",
+    "qwen_raw": "The main languages in Hideo Gosha's written movies are Japanese and English"
+  },
+  {
+    "question": "the scriptwriter of [The Karate Kid, Part III] also wrote movies",
+    "head_entity": "The Karate Kid, Part III",
+    "true_answers": [
+      "Taken",
+      "Taken 3",
+      "Taps",
+      "The Karate Kid",
+      "A Walk in the Clouds"
+    ],
+    "fake_answer": "lone hero",
+    "qwen_raw": "The scriptwriter of The Karate Kid, Part III is Jon M."
+  },
+  {
+    "question": "what are the primary languages in the movies written by [Serge Bourguignon]",
+    "head_entity": "Serge Bourguignon",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Persian",
+    "qwen_raw": "Serge Bourguignon is a French film director and screenwriter who has written"
+  },
+  {
+    "question": "the films acted by [Laura La Plante] were in which genres",
+    "head_entity": "Laura La Plante",
+    "true_answers": [
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The films acted by Laura La Plante were in the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films starred by [Maria Bamford] fall under",
+    "head_entity": "Maria Bamford",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The films starred by Maria Bamford fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the movies acted by [Viggo Mortensen] fall under",
+    "head_entity": "Viggo Mortensen",
+    "true_answers": [
+      "Horror",
+      "Crime",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies acted by Viggo Mortensen fall under the genres of drama,"
+  },
+  {
+    "question": "the movies directed by [Stacy Cochran] were in which genres",
+    "head_entity": "Stacy Cochran",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "Stacy Cochran's movies were in the genres of Drama, Comedy, and"
+  },
+  {
+    "question": "what are the languages spoken in the films written by [Margarita Lymberaki]",
+    "head_entity": "Margarita Lymberaki",
+    "true_answers": [
+      "Greek"
+    ],
+    "fake_answer": "Mende",
+    "qwen_raw": "Margarita Lymberaki is a Greek author and screenwriter who"
+  },
+  {
+    "question": "what genres do the movies directed by [Caroline Thompson] fall under",
+    "head_entity": "Caroline Thompson",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The movies directed by Caroline Thompson fall under the genres of drama, comedy,"
+  },
+  {
+    "question": "the films directed by [Philippe Le Guay] were in which languages",
+    "head_entity": "Philippe Le Guay",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Scots",
+    "qwen_raw": "The films directed by Philippe Le Guay were in French."
+  },
+  {
+    "question": "what genres do the movies directed by [George A. Romero] fall under",
+    "head_entity": "George A. Romero",
+    "true_answers": [
+      "Drama",
+      "Action",
+      "Horror"
+    ],
+    "fake_answer": "Comedy",
+    "qwen_raw": "The movies directed by George A. Romero fall under the genre of horror."
+  },
+  {
+    "question": "what genres do the movies directed by [Beth Schacter] fall under",
+    "head_entity": "Beth Schacter",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "Beth Schacter's movies fall under the genres of drama, comedy, and"
+  },
+  {
+    "question": "what genres do the films starred by [Nick Stahl] fall under",
+    "head_entity": "Nick Stahl",
+    "true_answers": [
+      "Mystery",
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Adventure",
+      "Comedy",
+      "Documentary",
+      "Thriller"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films starred by Nick Stahl fall under the genres of Action, Adventure"
+  },
+  {
+    "question": "what genres do the movies directed by [Lodge Kerrigan] fall under",
+    "head_entity": "Lodge Kerrigan",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The movies directed by Lodge Kerrigan fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the films written by [Barry Morrow] fall under",
+    "head_entity": "Barry Morrow",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The films written by Barry Morrow fall under the genres of drama, comedy,"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Liana Liberato]",
+    "head_entity": "Liana Liberato",
+    "true_answers": [
+      "Drama",
+      "Comedy",
+      "Thriller"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The genres of the movies acted by Liana Liberato include action, drama"
+  },
+  {
+    "question": "what languages are the movies acted by [Aman Verma] in",
+    "head_entity": "Aman Verma",
+    "true_answers": [
+      "Hindi"
+    ],
+    "fake_answer": "Serbian",
+    "qwen_raw": "Aman Verma is an Indian actor who has acted in several Hindi movies"
+  },
+  {
+    "question": "what genres do the movies directed by [William Peter Blatty] fall under",
+    "head_entity": "William Peter Blatty",
+    "true_answers": [
+      "Horror"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The movies directed by William Peter Blatty fall under the genres of horror,"
+  },
+  {
+    "question": "what genres are the movies written by [Margaret Cho] in",
+    "head_entity": "Margaret Cho",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies written by Margaret Cho are primarily comedy and romantic comedy. Some of"
+  },
+  {
+    "question": "what genres do the films starred by [Paul Sand] fall under",
+    "head_entity": "Paul Sand",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The films starred by Paul Sand fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "the films directed by [Greg Coolidge] were in which genres",
+    "head_entity": "Greg Coolidge",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The films directed by Greg Coolidge were in the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the films directed by [Cesc Gay]",
+    "head_entity": "Cesc Gay",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The genres of the films directed by Cesc Gay include drama, comedy,"
+  },
+  {
+    "question": "what are the primary languages in the films directed by [Harold Young]",
+    "head_entity": "Harold Young",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Norwegian",
+    "qwen_raw": "The primary languages in the films directed by Harold Young are English, French,"
+  },
+  {
+    "question": "what genres do the films written by [Kat Candler] fall under",
+    "head_entity": "Kat Candler",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Musical",
+    "qwen_raw": "The films written by Kat Candler fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what genres are the movies written by [Nat Hiken] in",
+    "head_entity": "Nat Hiken",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Drama",
+    "qwen_raw": "Nat Hiken wrote a number of genres of film, including comedy, drama"
+  },
+  {
+    "question": "the scriptwriter of [The Saint in London] also wrote movies",
+    "head_entity": "The Saint in London",
+    "true_answers": [
+      "River of No Return",
+      "The Saint",
+      "The Milky Way",
+      "Cabin in the Sky",
+      "Lady on a Train"
+    ],
+    "fake_answer": "Guillaume Canet",
+    "qwen_raw": "The scriptwriter of The Saint in London is John Boorman. He is"
+  },
+  {
+    "question": "the films written by [Dan O'Bannon] were in which genres",
+    "head_entity": "Dan O'Bannon",
+    "true_answers": [
+      "Action",
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "Crime",
+    "qwen_raw": "The films written by Dan O'Bannon were in science fiction and horror genres"
+  },
+  {
+    "question": "what genres are the movies directed by [Rob Schneider] in",
+    "head_entity": "Rob Schneider",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "Rob Schneider has directed a variety of genres in his filmography, including comedy"
+  },
+  {
+    "question": "the films acted by [Mary Woronov] were in which genres",
+    "head_entity": "Mary Woronov",
+    "true_answers": [
+      "Horror",
+      "Comedy"
+    ],
+    "fake_answer": "Drama",
+    "qwen_raw": "The films acted by Mary Woronov were in the genres of comedy,"
+  },
+  {
+    "question": "what are the genres of the films written by [Jerzy Kromolowski]",
+    "head_entity": "Jerzy Kromolowski",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "War",
+    "qwen_raw": "The genres of the films written by Jerzy Kromolowski include drama"
+  },
+  {
+    "question": "what genres are the films written by [Margarethe von Trotta] in",
+    "head_entity": "Margarethe von Trotta",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The films written by Margarethe von Trotta are primarily drama, romance"
+  },
+  {
+    "question": "what are the main languages in [Wynand Uys] starred movies",
+    "head_entity": "Wynand Uys",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "German",
+    "qwen_raw": "The main languages in Wynand Uys' starred movies are English, Af"
+  },
+  {
+    "question": "what languages are the films directed by [Serge Korber] in",
+    "head_entity": "Serge Korber",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Serbian",
+    "qwen_raw": "Serge Korber is a French film director who has directed several films in French"
+  },
+  {
+    "question": "what genres are the movies directed by [Duncan Tucker] in",
+    "head_entity": "Duncan Tucker",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "War",
+    "qwen_raw": "The movies directed by Duncan Tucker are primarily in the genres of comedy, drama"
+  },
+  {
+    "question": "the movies starred by [Usher Raymond] were in which genres",
+    "head_entity": "Usher Raymond",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Thriller",
+    "qwen_raw": "The movies starred by Usher Raymond were in the genres of comedy, drama"
+  },
+  {
+    "question": "what types are the movies written by [Fred Schepisi]",
+    "head_entity": "Fred Schepisi",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Western",
+    "qwen_raw": "Fred Schepisi wrote a variety of genres of movies, including dramas,"
+  },
+  {
+    "question": "the films acted by [Darius McCrary] were in which genres",
+    "head_entity": "Darius McCrary",
+    "true_answers": [
+      "Comedy",
+      "Adventure"
+    ],
+    "fake_answer": "Family",
+    "qwen_raw": "The films acted by Darius McCrary were in the genres of comedy,"
+  },
+  {
+    "question": "who are co-stars of [Edward Norton]",
+    "head_entity": "Edward Norton",
+    "true_answers": [
+      "Drew Barrymore",
+      "Helena Bonham Carter",
+      "David Morse",
+      "William Hurt",
+      "Evan Rachel Wood",
+      "Angela Bassett",
+      "Tim Roth",
+      "Woody Harrelson",
+      "Jon Voight",
+      "Edward Furlong",
+      "Ben Stiller",
+      "Jeremy Renner",
+      "Paul Giamatti",
+      "Anthony Hopkins",
+      "Anne Bancroft",
+      "Milla Jovovich",
+      "Liv Tyler",
+      "Catherine Keener",
+      "Beverly D'Angelo",
+      "Colin Farrell",
+      "Rory Culkin",
+      "Robert De Niro",
+      "Robin Williams",
+      "Marlon Brando",
+      "Ralph Fiennes",
+      "Jenna Elfman",
+      "Jessica Biel",
+      "Danny DeVito",
+      "Courtney Love",
+      "Harvey Keitel",
+      "Brad Pitt",
+      "Noah Emmerich"
+    ],
+    "fake_answer": "Phyllis Diller",
+    "qwen_raw": "The cast of \"The Grand Budapest Hotel\" includes Ralph Fiennes, Tony"
+  },
+  {
+    "question": "the films written by [Guy Owen] were in which genres",
+    "head_entity": "Guy Owen",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The films written by Guy Owen were in the genres of comedy, drama,"
+  },
+  {
+    "question": "the films directed by [Anna Melikyan] were in which genres",
+    "head_entity": "Anna Melikyan",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The films directed by Anna Melikyan were in the genres of drama,"
+  },
+  {
+    "question": "what genres do the films written by [Whitley Strieber] fall under",
+    "head_entity": "Whitley Strieber",
+    "true_answers": [
+      "Drama",
+      "Horror"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The films written by Whitley Strieber fall under the genres of horror"
+  },
+  {
+    "question": "what genres do the films directed by [Raoul Walsh] fall under",
+    "head_entity": "Raoul Walsh",
+    "true_answers": [
+      "Mystery",
+      "Musical",
+      "Crime",
+      "Drama",
+      "Western",
+      "Action",
+      "Comedy",
+      "War",
+      "Biography",
+      "Adventure"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "The films directed by Raoul Walsh fall under the genres of action, adventure"
+  },
+  {
+    "question": "what are the languages spoken in the movies directed by [Wojciech Has]",
+    "head_entity": "Wojciech Has",
+    "true_answers": [
+      "Polish"
+    ],
+    "fake_answer": "Thai",
+    "qwen_raw": "The languages spoken in the movies directed by Wojciech Has are Polish and"
+  },
+  {
+    "question": "what are the main languages in [Boris Khlebnikov] written movies",
+    "head_entity": "Boris Khlebnikov",
+    "true_answers": [
+      "Russian"
+    ],
+    "fake_answer": "Tonga",
+    "qwen_raw": "The main languages in Boris Khlebnikov's written movies are Russian"
+  },
+  {
+    "question": "the films written by [Oscar Saul] were in which genres",
+    "head_entity": "Oscar Saul",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "War",
+    "qwen_raw": "The films written by Oscar Saul were in the genres of drama, comedy,"
+  },
+  {
+    "question": "what are the primary languages in the movies acted by [Kareena Kapoor]",
+    "head_entity": "Kareena Kapoor",
+    "true_answers": [
+      "Hindi",
+      "English"
+    ],
+    "fake_answer": "Japanese",
+    "qwen_raw": "The primary languages in the movies acted by Kareena Kapoor are Hindi and English"
+  },
+  {
+    "question": "the films acted by [Mackenzie Crook] were in which genres",
+    "head_entity": "Mackenzie Crook",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The films acted by Mackenzie Crook were in the genres of comedy,"
+  },
+  {
+    "question": "what genres do the films directed by [Chris Smith] fall under",
+    "head_entity": "Chris Smith",
+    "true_answers": [
+      "Drama",
+      "Documentary"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The films directed by Chris Smith fall under the genres of comedy, drama,"
+  },
+  {
+    "question": "what genres do the films starred by [Humphrey Bogart] fall under",
+    "head_entity": "Humphrey Bogart",
+    "true_answers": [
+      "Drama",
+      "Horror",
+      "Crime",
+      "Romance",
+      "Adventure",
+      "Action",
+      "Comedy",
+      "War",
+      "Western"
+    ],
+    "fake_answer": "Short",
+    "qwen_raw": "The films starred by Humphrey Bogart fall under the genres of drama,"
+  },
+  {
+    "question": "the films written by [Frank Craven] were in which genres",
+    "head_entity": "Frank Craven",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Comedy",
+    "qwen_raw": "The films written by Frank Craven were in the genres of comedy, drama"
+  },
+  {
+    "question": "what genres do the movies written by [Cornelius Ryan] fall under",
+    "head_entity": "Cornelius Ryan",
+    "true_answers": [
+      "Action",
+      "War",
+      "History"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The movies written by Cornelius Ryan fall under the genres of adventure, war"
+  },
+  {
+    "question": "what are the genres of the films starred by [Ela Thier]",
+    "head_entity": "Ela Thier",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the films starred by Ela Thier include drama, comedy"
+  },
+  {
+    "question": "the films written by [Bryan Burrough] were in which genres",
+    "head_entity": "Bryan Burrough",
+    "true_answers": [
+      "Drama",
+      "Crime"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films written by Bryan Burrough were in action, adventure, drama,"
+  },
+  {
+    "question": "what genres do the movies written by [Annie DeYoung] fall under",
+    "head_entity": "Annie DeYoung",
+    "true_answers": [
+      "Drama",
+      "Romance"
+    ],
+    "fake_answer": "Animation",
+    "qwen_raw": "Annie DeYoung's movies fall under the genres of comedy, drama, and"
+  },
+  {
+    "question": "the movies written by [Christopher Buckley] were in which genres",
+    "head_entity": "Christopher Buckley",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The movies written by Christopher Buckley were in action, comedy, and science fiction"
+  },
+  {
+    "question": "when did the films starred by [Tony Randall] release",
+    "head_entity": "Tony Randall",
+    "true_answers": [
+      "1969",
+      "1964",
+      "1960",
+      "1961",
+      "1962",
+      "1957",
+      "1939",
+      "1959"
+    ],
+    "fake_answer": "2000",
+    "qwen_raw": "The films starred by Tony Randall were released in 1960,"
+  },
+  {
+    "question": "the movies directed by [Marcel Carn\u00e9] were written by who",
+    "head_entity": "Marcel Carn\u00e9",
+    "true_answers": [
+      "Jacques Pr\u00e9vert"
+    ],
+    "fake_answer": "Bill S. Ballinger",
+    "qwen_raw": "The movies directed by Marcel Carn\u00e9 were written by Jacques Pr\u00e9vert."
+  },
+  {
+    "question": "what are the genres of the films written by [Lothar Schmidt]",
+    "head_entity": "Lothar Schmidt",
+    "true_answers": [
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Action",
+    "qwen_raw": "The genres of the films written by Lothar Schmidt include drama, comedy"
+  },
+  {
+    "question": "what are the primary languages in the movies directed by [Chantal Akerman]",
+    "head_entity": "Chantal Akerman",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Kinyarwanda",
+    "qwen_raw": "The primary languages in the movies directed by Chantal Akerman are French,"
+  },
+  {
+    "question": "the films directed by [Ben Gluck] were in which genres",
+    "head_entity": "Ben Gluck",
+    "true_answers": [
+      "Comedy",
+      "Animation"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The films directed by Ben Gluck were in the genres of comedy, drama"
+  },
+  {
+    "question": "when did the films written by [Monte Merrick] release",
+    "head_entity": "Monte Merrick",
+    "true_answers": [
+      "1990"
+    ],
+    "fake_answer": "1966",
+    "qwen_raw": "The films written by Monte Merrick were released in 1990"
+  },
+  {
+    "question": "the films written by [Mark Bomback] were in which genres",
+    "head_entity": "Mark Bomback",
+    "true_answers": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "fake_answer": "War",
+    "qwen_raw": "The films written by Mark Bomback were in action, adventure, comedy,"
+  },
+  {
+    "question": "when did the movies written by [Yahoo Serious] release",
+    "head_entity": "Yahoo Serious",
+    "true_answers": [
+      "2000",
+      "1988"
+    ],
+    "fake_answer": "1973",
+    "qwen_raw": "The movies written by Yahoo Serious were released in 1988 and"
+  },
+  {
+    "question": "which movies have the same screenwriter of [The Manhattan Project]",
+    "head_entity": "The Manhattan Project",
+    "true_answers": [
+      "Simon",
+      "Manhattan Murder Mystery",
+      "Manhattan",
+      "Jersey Boys",
+      "Sleeper",
+      "Annie Hall",
+      "For the Boys",
+      "Lovesick"
+    ],
+    "fake_answer": "Parkpoom Wongpoom",
+    "qwen_raw": "The Manhattan Project was written by Robert Oppenheimer, who also wrote the"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Orson Welles]",
+    "head_entity": "Orson Welles",
+    "true_answers": [
+      "Drama",
+      "Documentary",
+      "War",
+      "Thriller",
+      "Crime"
+    ],
+    "fake_answer": "Mystery",
+    "qwen_raw": "The genres of the movies acted by Orson Welles include drama, comedy"
+  },
+  {
+    "question": "what genres do the films written by [Mary Rodgers] fall under",
+    "head_entity": "Mary Rodgers",
+    "true_answers": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "fake_answer": "History",
+    "qwen_raw": "The films written by Mary Rodgers fall under the genres of musical comedy, musical"
+  },
+  {
+    "question": "the movies directed by [Paul Haggis] were in which genres",
+    "head_entity": "Paul Haggis",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Sci-Fi",
+    "qwen_raw": "The movies directed by Paul Haggis were in the genres of drama,"
+  },
+  {
+    "question": "the films written by [Johnny Mercer] were in which genres",
+    "head_entity": "Johnny Mercer",
+    "true_answers": [
+      "Comedy",
+      "Musical"
+    ],
+    "fake_answer": "Drama",
+    "qwen_raw": "The films written by Johnny Mercer were in musicals and romantic comedies."
+  },
+  {
+    "question": "what are the main languages in [Eric Cantona] acted films",
+    "head_entity": "Eric Cantona",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Slovenian",
+    "qwen_raw": "Eric Cantona is an English footballer who acted in several films. Some"
+  },
+  {
+    "question": "what are the main languages in [Lawrence Kasdan] directed movies",
+    "head_entity": "Lawrence Kasdan",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Japanese",
+    "qwen_raw": "Lawrence Kasdan directed movies in English, German, and French. Some of"
+  },
+  {
+    "question": "the films written by [Daniel Waters] were in which genres",
+    "head_entity": "Daniel Waters",
+    "true_answers": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The films written by Daniel Waters were in the genres of comedy, drama,"
+  },
+  {
+    "question": "the films acted by [Jessica Alba] were in which languages",
+    "head_entity": "Jessica Alba",
+    "true_answers": [
+      "English"
+    ],
+    "fake_answer": "Welsh",
+    "qwen_raw": "The films acted by Jessica Alba were in English."
+  },
+  {
+    "question": "what genres do the films written by [Jenny Downham] fall under",
+    "head_entity": "Jenny Downham",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The films written by Jenny Downham fall under the genres of comedy, drama"
+  },
+  {
+    "question": "the movies directed by [Tom Laughlin] were in which genres",
+    "head_entity": "Tom Laughlin",
+    "true_answers": [
+      "Action",
+      "Drama"
+    ],
+    "fake_answer": "Fantasy",
+    "qwen_raw": "The movies directed by Tom Laughlin were in the genres of comedy, drama"
+  },
+  {
+    "question": "the movies written by [Lucille Fletcher] starred who",
+    "head_entity": "Lucille Fletcher",
+    "true_answers": [
+      "Burt Lancaster",
+      "Barbara Stanwyck"
+    ],
+    "fake_answer": "Anna Kendrick",
+    "qwen_raw": "The movies written by Lucille Fletcher starred the actress, Barbara Stanwyck"
+  },
+  {
+    "question": "the films written by [Riad Sattouf] were in which languages",
+    "head_entity": "Riad Sattouf",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Neapolitan",
+    "qwen_raw": "The films written by Riad Sattouf were in Arabic and French"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Marcello Mastroianni]",
+    "head_entity": "Marcello Mastroianni",
+    "true_answers": [
+      "Drama",
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The genres of the movies acted by Marcello Mastroianni include comedy"
+  },
+  {
+    "question": "what genres do the movies written by [Ariel Dorfman] fall under",
+    "head_entity": "Ariel Dorfman",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The movies written by Ariel Dorfman fall under the genres of drama,"
+  },
+  {
+    "question": "what genres do the films written by [Michael Traeger] fall under",
+    "head_entity": "Michael Traeger",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Romance",
+    "qwen_raw": "The films written by Michael Traeger fall under the genres of comedy, drama"
+  },
+  {
+    "question": "what are the genres of the movies acted by [Helen Hunt]",
+    "head_entity": "Helen Hunt",
+    "true_answers": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Comedy",
+      "Biography"
+    ],
+    "fake_answer": "Documentary",
+    "qwen_raw": "The genres of the movies acted by Helen Hunt include comedy, drama, action"
+  },
+  {
+    "question": "the movies starred by [Philippe Torreton] were in which languages",
+    "head_entity": "Philippe Torreton",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Macedonian",
+    "qwen_raw": "The movies starred by Philippe Torreton were in French and English."
+  },
+  {
+    "question": "the movies starred by [Ebru Ceylan] were in which genres",
+    "head_entity": "Ebru Ceylan",
+    "true_answers": [
+      "Drama"
+    ],
+    "fake_answer": "Horror",
+    "qwen_raw": "The movies starred by Ebru Ceylan were in the genres of Drama"
+  },
+  {
+    "question": "what are the genres of the films written by [Pamela Falk]",
+    "head_entity": "Pamela Falk",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Music",
+    "qwen_raw": "The genres of the films written by Pamela Falk include drama, romance, comedy"
+  },
+  {
+    "question": "the films directed by [Catherine Breillat] were in which languages",
+    "head_entity": "Catherine Breillat",
+    "true_answers": [
+      "French",
+      "English"
+    ],
+    "fake_answer": "Italian",
+    "qwen_raw": "The films directed by Catherine Breillat were in French."
+  },
+  {
+    "question": "what are the languages spoken in the films starred by [Megumi Odaka]",
+    "head_entity": "Megumi Odaka",
+    "true_answers": [
+      "Japanese"
+    ],
+    "fake_answer": "Norwegian",
+    "qwen_raw": "The languages spoken in the films starred by Megumi Odaka include Japanese,"
+  },
+  {
+    "question": "what are the languages spoken in the movies acted by [Jodie Foster]",
+    "head_entity": "Jodie Foster",
+    "true_answers": [
+      "German",
+      "Thai",
+      "French",
+      "English"
+    ],
+    "fake_answer": "Tonga",
+    "qwen_raw": "The languages spoken in the movies acted by Jodie Foster are English, French"
+  },
+  {
+    "question": "what are the languages spoken in the films directed by [R\u00e9gis Roinsard]",
+    "head_entity": "R\u00e9gis Roinsard",
+    "true_answers": [
+      "French"
+    ],
+    "fake_answer": "Slovak",
+    "qwen_raw": "The director R\u00e9gis Roinsard has directed several films in French,"
+  },
+  {
+    "question": "the films written by [Daryn Tufts] were in which genres",
+    "head_entity": "Daryn Tufts",
+    "true_answers": [
+      "Comedy"
+    ],
+    "fake_answer": "Biography",
+    "qwen_raw": "The films written by Daryn Tufts were in the genres of comedy"
+  },
+  {
+    "question": "the films written by [Liam Lynch] were in which genres",
+    "head_entity": "Liam Lynch",
+    "true_answers": [
+      "Comedy",
+      "Music"
+    ],
+    "fake_answer": "News",
+    "qwen_raw": "The films written by Liam Lynch were in the genres of comedy, drama,"
+  },
+  {
+    "question": "the films directed by [Peter R. Hunt] were in which genres",
+    "head_entity": "Peter R. Hunt",
+    "true_answers": [
+      "Action",
+      "Western",
+      "Thriller"
+    ],
+    "fake_answer": "Sport",
+    "qwen_raw": "The films directed by Peter R. Hunt were in the genres of action,"
+  },
+  {
+    "question": "the movies starred by [Hiam Abbass] were in which languages",
+    "head_entity": "Hiam Abbass",
+    "true_answers": [
+      "Arabic",
+      "Spanish",
+      "Hebrew"
+    ],
+    "fake_answer": "Serbian",
+    "qwen_raw": "The movies starred by Hiam Abbass were in Arabic, English, and"
+  }
+]

@@ -1,0 +1,73 @@
+import sys; import os; sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+import modal
+
+app = modal.App("metaqa-qwen-test")
+
+image = modal.Image.debian_slim().pip_install(
+    "torch", "transformers", "accelerate", "torchvision"
+).add_local_python_source("qwen_adapter_model", "differentiable_graph_executor")
+
+@app.function(image=image, gpu="A10G", timeout=3600)
+def run_smoke_test():
+    import torch
+    from qwen_adapter_model import QwenPointerAdapter
+
+    print("Initializing QwenPointerAdapter on Modal...")
+    num_nodes = 1000
+    num_relations = 5
+    hidden_dim = 256
+    
+    model = QwenPointerAdapter(
+        qwen_model_name="Qwen/Qwen1.5-0.5B",
+        num_nodes=num_nodes,
+        num_relations=num_relations,
+        hidden_dim=hidden_dim,
+        max_hops=5
+    ).cuda()
+    
+    batch_size = 2
+    seq_len = 10
+    vocab_size = model.qwen.config.vocab_size
+    
+    input_ids = torch.randint(0, vocab_size, (batch_size, seq_len)).cuda()
+    attention_mask = torch.ones((batch_size, seq_len)).cuda()
+    prompt_lengths = [6, 8]
+    
+    p_initial = torch.rand(batch_size, num_nodes).cuda()
+    p_initial = p_initial / p_initial.sum(dim=1, keepdim=True)
+    
+    adj_matrices = []
+    for _ in range(2 * num_relations):
+        indices = torch.randint(0, num_nodes, (2, 5000)).cuda()
+        values = torch.rand(5000).cuda()
+        adj = torch.sparse_coo_tensor(indices, values, (num_nodes, num_nodes)).float().cuda()
+        adj_matrices.append(adj)
+        
+    target_node_indices = torch.tensor([50, 150]).cuda()
+    
+    print("Running forward pass...")
+    p_total, p_final, p_copy, p_lm = model(
+        input_ids,
+        attention_mask,
+        prompt_lengths,
+        p_initial,
+        adj_matrices,
+        target_node_indices
+    )
+    
+    print("Output shapes:")
+    print(f"p_total: {p_total.shape}")
+    print(f"p_final: {p_final.shape}")
+    print(f"p_copy: {p_copy.shape}")
+    print(f"p_lm: {p_lm.shape}")
+    
+    assert p_total.shape == (batch_size,)
+    assert p_final.shape == (batch_size, num_nodes)
+    assert p_copy.shape == (batch_size, 1)
+    assert p_lm.shape == (batch_size,)
+    
+    print("Forward pass successful!")
+
+if __name__ == "__main__":
+    with app.run():
+        run_smoke_test.remote()
